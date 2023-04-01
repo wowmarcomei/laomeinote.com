@@ -1,0 +1,33 @@
+[[main]]
+  identifier = "home"
+  name = "首页"
+  url = "/"
+  weight = 1
+
+[[main]]
+  identifier = "archive"
+  name = "归档"
+  url = "archive"
+  weight = 2
+
+[[main]]
+  identifier = "gallery"
+  name = "画廊"
+  url = "gallery"
+  weight = 3
+    
+[[main]]
+  parent = "gallery"
+  name = "Cartoon"
+  url = "gallery/cartoon"
+
+[[main]]
+  parent = "gallery"
+  name = "Photo"
+  url = "gallery/photo"
+
+[[main]]
+  identifier = "about"
+  name = "关于"
+  url = "about"
+  weight = 4

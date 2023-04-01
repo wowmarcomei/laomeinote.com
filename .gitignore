@@ -1,0 +1,27 @@
+# Editor and OS files
+.DS_Store
+*.swp
+
+# Hugo files
+.hugo_cache/
+resources/
+
+# Build files
+*.log
+*~
+*.bak
+*.tmp
+*.DS_Store
+*.psd
+
+# Dependency directories
+/vendor/
+
+.hugo_build.lock
+
+# Environment variables
+.env
+
+# Ignore specific files
+scripts/backup.sh
+scripts/secret.config
