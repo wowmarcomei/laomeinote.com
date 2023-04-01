@@ -7,16 +7,13 @@ jobs:
 
     runs-on: ubuntu-latest
 
-    env:
-      HUGO_VERSION: 0.111.1
-
     steps:
     - uses: actions/checkout@v1
 
     - name: Setup Hugo
-      uses: peaceiris/setup-hugo@v1
-      with:
-        hugo-version: ${{ env.HUGO_VERSION }}
+        uses: peaceiris/actions-hugo@v2
+        with:
+          hugo-version: '0.110.0'
       
     - name: Build
       run: hugo --minify
