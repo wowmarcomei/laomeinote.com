@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Git on laomeinote</title>
+    <link>http://laomeinote.com/en/tags/git/</link>
+    <description>Recent content in Git on laomeinote</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>wowmarcomei@gmail.com (Marco Mei)</managingEditor>
+    <webMaster>wowmarcomei@gmail.com (Marco Mei)</webMaster>
+    <copyright>©2023, All Rights Reserved</copyright>
+    <lastBuildDate>Wed, 06 Jul 2016 15:37:51 +0000</lastBuildDate>
+    
+        <atom:link href="http://laomeinote.com/en/tags/git/index.xml" rel="self" type="application/rss+xml" />
+    
+
+      
+      <item>
+        <title>使用Hexo搭建Github Page</title>
+        <link>http://laomeinote.com/en/posts/create-github-pages-with-hexo/</link>
+        <pubDate>Wed, 06 Jul 2016 15:37:51 +0000</pubDate>
+        <author>wowmarcomei@gmail.com (Marco Mei)</author>
+        <atom:modified>Wed, 06 Jul 2016 15:37:51 +0000</atom:modified>
+        <guid>http://laomeinote.com/en/posts/create-github-pages-with-hexo/</guid>
+        <description>Github Pages是Github免费提供的静态网站服务，我们可以将自己的静态网站推送到Github仓库，让它提供网站服务，免去自己申请主机服务器的</description>
+        
+        <dc:creator>Marco Mei</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>Hexo</category>
+            
+          
+            
+              <category>Github</category>
+            
+          
+            
+              <category>Git</category>
+            
+          
+        
+        
+          
+            
+              <category>Web</category>
+            
+          
+        
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>

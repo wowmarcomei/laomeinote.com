@@ -11,23 +11,23 @@
   weight = 2
 
 [[main]]
-  identifier = "gallery"
-  name = "画廊"
-  url = "gallery"
-  weight = 3
-    
-[[main]]
-  parent = "gallery"
-  name = "Cartoon"
-  url = "gallery/cartoon"
-
-[[main]]
-  parent = "gallery"
-  name = "Photo"
-  url = "gallery/photo"
-
-[[main]]
   identifier = "about"
   name = "关于"
   url = "about"
   weight = 4
+
+[[main]]
+  identifier = "tools"
+  name = "工具"
+  url = "/"
+  weight = 5
+    
+[[main]]
+  parent = "tools"
+  name = "google"
+  url = "categories/google/"
+
+[[main]]
+  parent = "tools"
+  name = "chatgpt"
+  url = "categories/chatgpt/"

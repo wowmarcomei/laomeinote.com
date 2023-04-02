@@ -1,5 +1,5 @@
 ---
-title: 【Kubernets实践】12-基于Daemonset与Job特性快速删除集群节点上镜像
+title: K8s 12-基于Daemonset与Job特性快速删除集群节点上镜像
 date: 2022-04-05 20:19:21
 updated: 2022-04-05 20:19:21
 categories: 

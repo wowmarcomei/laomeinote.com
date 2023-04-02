@@ -1,5 +1,5 @@
 ---
-title: 【Kubernets实践】06-POD在多AZ之间高可用的实现
+title: K8s06-POD在多AZ之间高可用的实现
 date: 2022-02-12 18:18:21
 updated: 2022-02-12 18:18:21
 description: 基于云架构平台，基本都是多AZ保障高可用，那么如何设置POD在多AZ之间调度呢？

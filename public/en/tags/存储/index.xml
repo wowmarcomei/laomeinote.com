@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>存储 on laomeinote</title>
+    <link>http://laomeinote.com/en/tags/%E5%AD%98%E5%82%A8/</link>
+    <description>Recent content in 存储 on laomeinote</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>wowmarcomei@gmail.com (Marco Mei)</managingEditor>
+    <webMaster>wowmarcomei@gmail.com (Marco Mei)</webMaster>
+    <copyright>©2023, All Rights Reserved</copyright>
+    <lastBuildDate>Thu, 23 Dec 2021 21:31:41 +0000</lastBuildDate>
+    
+        <atom:link href="http://laomeinote.com/en/tags/%E5%AD%98%E5%82%A8/index.xml" rel="self" type="application/rss+xml" />
+    
+
+      
+      <item>
+        <title>【Docker基础】04-Docker数据存储</title>
+        <link>http://laomeinote.com/en/posts/04-docker-data-storage/</link>
+        <pubDate>Thu, 23 Dec 2021 21:31:41 +0000</pubDate>
+        <author>wowmarcomei@gmail.com (Marco Mei)</author>
+        <atom:modified>Thu, 23 Dec 2021 21:31:41 +0000</atom:modified>
+        <guid>http://laomeinote.com/en/posts/04-docker-data-storage/</guid>
+        <description>Docker提供两种数据存储资源，一种是基于storage driver提供的镜像层和容器层，一种是基于data volume提供的持久化存储。</description>
+        
+        <dc:creator>Marco Mei</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>Docker</category>
+            
+          
+            
+              <category>存储</category>
+            
+          
+        
+        
+          
+            
+              <category>Docker</category>
+            
+          
+        
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>

@@ -1,6 +1,6 @@
-logoText = "MarcoNote"
+logoText = "laomeinote"
 logoType = "short" # long, short
-description = "这是Marco的个人站点，主要分享技术笔记、阅读心得、工具使用、资源共享等内容。"
+description = "这是老梅的个人站点，主要分享技术笔记、阅读心得、工具使用、资源共享等内容。"
 custom_css = []
 custom_js = []
 
@@ -22,7 +22,7 @@ minItemsToShowInTagCloud = 1 # Minimum items to show in tag cloud
 
 # appbar
 enableAppbarSearchIcon = true
-enableAppbarLangIcon = true
+enableAppbarLangIcon = false
 
 # header
 homeHeaderType = "text" # text, img, slide, typewriter
@@ -61,14 +61,14 @@ publicationIcon = "📚"
 typeIcon = "🎯"
 
 # whoami
-myname = "Marco Mei"
+myname = "LaoMei"
 email = "wowmarcomei@gmail.com"
 whoami = "A student,committed to continuous learning."
 bioImageUrl = ""
 useGravatar = false
 location = "Shenzhen, China"
 organization = ""
-link = "https://marconote.com"
+link = "https://laomeinote.com"
 
 # sidebar
 enableBio = true
@@ -93,7 +93,7 @@ enableSidebarPostsByOrder = false
 showPoweredBy = true
 showFeedLinks = true
 showSocialLinks = true
-enableLangChange = true
+enableLangChange = false
 enableThemeChange = true
 
 # service

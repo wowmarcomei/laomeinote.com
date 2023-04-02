@@ -1,9 +1,9 @@
-baseURL = "http://marconote.com"
-title = "marconote"
+baseURL = "http://laomeinote.com"
+title = "laomeinote"
 theme = "zzo"
 
 defaultContentLanguage = "zh"
-defaultContentLanguageInSubdir = true
+defaultContentLanguageInSubdir = false
 hasCJKLanguage = true
 
 summaryLength = 70

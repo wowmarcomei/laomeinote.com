@@ -25,9 +25,9 @@ header:
     paddingY: 0
     align: center
     title:
-      - Marco Note
+      - 老梅笔记
     subtitle:
-      - Marco笔记：分享技术笔记, 阅读与工具资源使用心得.
+      - 分享技术笔记, 阅读与工具资源使用心得.
     titleColor: 
     titleShadow: true
     titleFontSize: 44

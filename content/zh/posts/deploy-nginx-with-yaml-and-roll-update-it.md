@@ -1,5 +1,5 @@
 ---
-title: 【Kubernets实践】02-使用YAML部署Nginx并滚动升级
+title: K8s 02-使用YAML部署Nginx并滚动升级
 date: 2021-12-28 19:01:41
 updated: 2021-12-28 19:01:41
 description: 通过YAML基于kubectl使用原生方式跟API-Server快速交互，创建对应的API对象。

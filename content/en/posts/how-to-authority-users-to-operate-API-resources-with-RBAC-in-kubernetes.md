@@ -1,5 +1,5 @@
 ---
-title: 【Kubernets实践】05-通过RBAC授权API对象的操作
+title: K8s05-通过RBAC授权API对象的操作
 date: 2022-02-09 20:18:16
 updated: 2022-02-09 20:18:16
 description: Kubernetes 所有资源对象都是模型化的 API 对象，允许执行CRUD(Create、Read、Update、Delete)操作，通过RBAC可以设置基于角色控制CRUD操作。

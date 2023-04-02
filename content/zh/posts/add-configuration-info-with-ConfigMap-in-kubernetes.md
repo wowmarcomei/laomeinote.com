@@ -1,5 +1,5 @@
 ---
-title: 【Kubernets实践】9-使用ConfigMap往容器中注入配置信息
+title: K8s 9-使用ConfigMap往容器中注入配置信息
 date: 2022-03-28 21:15:26
 updated: 2022-03-28 21:15:26
 

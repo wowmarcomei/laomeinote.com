@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Dockefile on laomeinote</title>
+    <link>http://laomeinote.com/zh/tags/dockefile/</link>
+    <description>Recent content in Dockefile on laomeinote</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <managingEditor>wowmarcomei@gmail.com (Marco Mei)</managingEditor>
+    <webMaster>wowmarcomei@gmail.com (Marco Mei)</webMaster>
+    <copyright>©2023, All Rights Reserved</copyright>
+    <lastBuildDate>Wed, 22 Dec 2021 21:31:41 +0000</lastBuildDate>
+    
+        <atom:link href="http://laomeinote.com/zh/tags/dockefile/index.xml" rel="self" type="application/rss+xml" />
+    
+
+      
+      <item>
+        <title>【Docker基础】03-Dockerfile基础</title>
+        <link>http://laomeinote.com/zh/posts/03-dockerfile-basics/</link>
+        <pubDate>Wed, 22 Dec 2021 21:31:41 +0000</pubDate>
+        <author>wowmarcomei@gmail.com (Marco Mei)</author>
+        <atom:modified>Wed, 22 Dec 2021 21:31:41 +0000</atom:modified>
+        <guid>http://laomeinote.com/zh/posts/03-dockerfile-basics/</guid>
+        <description>Dockerfile是用来干啥的？答案是制作镜像。那么了解Dockerfile之前，我们首先需要理解几个简单概念。 Dockerfile基础概</description>
+        
+        <dc:creator>Marco Mei</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>Docker</category>
+            
+          
+            
+              <category>Dockefile</category>
+            
+          
+        
+        
+          
+            
+              <category>Docker</category>
+            
+          
+        
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>

@@ -1,5 +1,5 @@
 ---
-title: 【Kubernets实践】07-基于CPU和内存指标实现HPA弹性
+title: K8s 07-基于CPU和内存指标实现HPA弹性
 date: 2022-02-15 20:12:21
 updated: 2022-02-15 20:12:21
 description: Kubernetes中弹性伸缩最主要的就是使用HPA（Horizontal Pod Autoscaling）和CA（Cluster AutoScaling）两种弹性伸缩策略，HPA负责工作负载弹性伸缩，也就是应用层面的弹性伸缩。

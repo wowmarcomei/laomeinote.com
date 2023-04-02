@@ -1,5 +1,5 @@
 ---
-title: 【Kubernets实践】08-基于自定义指标实现HPA弹性
+title: K8s 08-基于自定义指标实现HPA弹性
 date: 2022-02-18 19:01:16
 updated: 2022-02-18 19:01:16
 description: 除了基于 CPU 和内存来进行自动扩缩容之外，有些业务需要基于自定义指标进行HPA弹性伸缩，通用做法是结合prometheus能力。

@@ -1,5 +1,5 @@
 ---
-title: 【Kubernets实践】10-通过Secret向容器中注入加密信息
+title: K8s10-通过Secret向容器中注入加密信息
 date: 2022-03-31 18:36:40
 updated: 2022-03-31 18:36:40
 description: 一般ConfigMap用于保存通用配置信息，属于明文信息，不能保存密钥，如果要保存密钥等加密信息，Kubernetes提供的解决方案是使用Secret对象，通过Secret进行加密并传递给容器作为变量使用，应用根据加解密算法进行解密使用。。

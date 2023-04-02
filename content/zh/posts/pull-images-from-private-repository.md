@@ -1,5 +1,5 @@
 ---
-title: 【Kubernets实践】03-Kubernetes从私有仓库中拉取镜像
+title: K8s 03-Kubernetes从私有仓库中拉取镜像
 date: 2021-12-29 18:49:16
 updated: 2021-12-29 18:49:16
 description: 本文介绍如何使用 Secret从私有镜像仓库或代码仓库拉取镜像来创建 Pod。

@@ -1,5 +1,5 @@
 ---
-title: 【Kubernets实践】14-向容器中注入主机信息
+title: K8s 14-向容器中注入主机信息
 date: 2022-04-09 20:19:21
 updated: 2022-04-09 20:19:21
 categories: 

@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Docker on laomeinote</title>
+    <link>http://laomeinote.com/en/categories/docker/</link>
+    <description>Recent content in Docker on laomeinote</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>wowmarcomei@gmail.com (Marco Mei)</managingEditor>
+    <webMaster>wowmarcomei@gmail.com (Marco Mei)</webMaster>
+    <copyright>©2023, All Rights Reserved</copyright>
+    <lastBuildDate>Sat, 25 Dec 2021 22:01:41 +0000</lastBuildDate>
+    
+        <atom:link href="http://laomeinote.com/en/categories/docker/index.xml" rel="self" type="application/rss+xml" />
+    
+
+      
+      <item>
+        <title>【Docker基础】06-容器编排之Docker-Compose</title>
+        <link>http://laomeinote.com/en/posts/06-docker-compose-for-container-orchestration/</link>
+        <pubDate>Sat, 25 Dec 2021 22:01:41 +0000</pubDate>
+        <author>wowmarcomei@gmail.com (Marco Mei)</author>
+        <atom:modified>Sat, 25 Dec 2021 22:01:41 +0000</atom:modified>
+        <guid>http://laomeinote.com/en/posts/06-docker-compose-for-container-orchestration/</guid>
+        <description>Docker Compose是什么？它是Docker的编排开源组件，后被Docker收购，是当年社区内火爆程度仅次于Docker的开源项目，Docker</description>
+        
+        <dc:creator>Marco Mei</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>Docker</category>
+            
+          
+            
+              <category>Docker-Compose</category>
+            
+          
+        
+        
+          
+            
+              <category>Docker</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>【Docker基础】05-Docker网络</title>
+        <link>http://laomeinote.com/en/posts/05-docker-network/</link>
+        <pubDate>Fri, 24 Dec 2021 22:31:41 +0000</pubDate>
+        <author>wowmarcomei@gmail.com (Marco Mei)</author>
+        <atom:modified>Fri, 24 Dec 2021 22:31:41 +0000</atom:modified>
+        <guid>http://laomeinote.com/en/posts/05-docker-network/</guid>
+        <description>容器网络比较复杂，目前主流的网络方案是以VXLAN为主的Overlay方案，关于VXLAN的理解，可以参考这篇文章《什么是VXLAN》。 这篇</description>
+        
+        <dc:creator>Marco Mei</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>Docker</category>
+            
+          
+            
+              <category>VXLAN</category>
+            
+          
+        
+        
+          
+            
+              <category>Docker</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>【Docker基础】04-Docker数据存储</title>
+        <link>http://laomeinote.com/en/posts/04-docker-data-storage/</link>
+        <pubDate>Thu, 23 Dec 2021 21:31:41 +0000</pubDate>
+        <author>wowmarcomei@gmail.com (Marco Mei)</author>
+        <atom:modified>Thu, 23 Dec 2021 21:31:41 +0000</atom:modified>
+        <guid>http://laomeinote.com/en/posts/04-docker-data-storage/</guid>
+        <description>Docker提供两种数据存储资源，一种是基于storage driver提供的镜像层和容器层，一种是基于data volume提供的持久化存储。</description>
+        
+        <dc:creator>Marco Mei</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>Docker</category>
+            
+          
+            
+              <category>存储</category>
+            
+          
+        
+        
+          
+            
+              <category>Docker</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>【Docker基础】03-Dockerfile基础</title>
+        <link>http://laomeinote.com/en/posts/03-dockerfile-basics/</link>
+        <pubDate>Wed, 22 Dec 2021 21:31:41 +0000</pubDate>
+        <author>wowmarcomei@gmail.com (Marco Mei)</author>
+        <atom:modified>Wed, 22 Dec 2021 21:31:41 +0000</atom:modified>
+        <guid>http://laomeinote.com/en/posts/03-dockerfile-basics/</guid>
+        <description>Dockerfile是用来干啥的？答案是制作镜像。那么了解Dockerfile之前，我们首先需要理解几个简单概念。 Dockerfile基础概</description>
+        
+        <dc:creator>Marco Mei</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>Docker</category>
+            
+          
+            
+              <category>Dockefile</category>
+            
+          
+        
+        
+          
+            
+              <category>Docker</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>【Docker基础】02-安装并启动一个Docker容器</title>
+        <link>http://laomeinote.com/en/posts/02-install-and-start-a-docker-container/</link>
+        <pubDate>Tue, 21 Dec 2021 21:01:41 +0000</pubDate>
+        <author>wowmarcomei@gmail.com (Marco Mei)</author>
+        <atom:modified>Tue, 21 Dec 2021 21:01:41 +0000</atom:modified>
+        <guid>http://laomeinote.com/en/posts/02-install-and-start-a-docker-container/</guid>
+        <description>1.安装Docker 国内直接访问Docker官网速度较慢，不过国内各大厂商都提供加速服务，我们到华为云镜像站加速。 1.1 Centos安装Dock</description>
+        
+        <dc:creator>Marco Mei</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>Docker</category>
+            
+          
+        
+        
+          
+            
+              <category>Docker</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>【Docker基础】01-Docker基本架构与原理</title>
+        <link>http://laomeinote.com/en/posts/01-docker-basic-architecture-and-principles/</link>
+        <pubDate>Mon, 20 Dec 2021 20:01:41 +0000</pubDate>
+        <author>wowmarcomei@gmail.com (Marco Mei)</author>
+        <atom:modified>Mon, 20 Dec 2021 20:01:41 +0000</atom:modified>
+        <guid>http://laomeinote.com/en/posts/01-docker-basic-architecture-and-principles/</guid>
+        <description>1.Docker基本架构与原理 虽然Kubernetes从1.20版本中不再使用Docker作为容器引擎，但docker还是被广泛使用的，实际</description>
+        
+        <dc:creator>Marco Mei</dc:creator>
+        <media:content url="http://laomeinote.comimages/feature2/color-palette.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>Docker</category>
+            
+          
+        
+        
+          
+            
+              <category>Docker</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>Centos上部署Harbor私有仓库</title>
+        <link>http://laomeinote.com/en/posts/deploy-harbor-repository-with-docker-in-centos/</link>
+        <pubDate>Sun, 25 Aug 2019 18:42:18 +0000</pubDate>
+        <author>wowmarcomei@gmail.com (Marco Mei)</author>
+        <atom:modified>Sun, 25 Aug 2019 18:42:18 +0000</atom:modified>
+        <guid>http://laomeinote.com/en/posts/deploy-harbor-repository-with-docker-in-centos/</guid>
+        <description>Harbor是VMware公司开源的企业级的Docker Registry管理项目，它包括权限管理(RBAC)、LDAP、日志审核、管理界面、</description>
+        
+        <dc:creator>Marco Mei</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>Docker</category>
+            
+          
+            
+              <category>Harbor</category>
+            
+          
+            
+              <category>K8s</category>
+            
+          
+        
+        
+          
+            
+              <category>Docker</category>
+            
+          
+        
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>

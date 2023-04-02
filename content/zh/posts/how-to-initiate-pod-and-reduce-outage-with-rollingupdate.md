@@ -1,5 +1,5 @@
 ---
-title: 【Kubernets实践】04-POD初始化与应用零宕机滚动更新
+title: K8s 04-POD初始化与应用零宕机滚动更新
 date: 2022-01-13 19:51:16
 updated: 2022-01-13 19:51:16
 description: 本文介绍POD的生命周期与使用滚动更新避免应用宕机。

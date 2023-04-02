@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Docker-Compose on laomeinote</title>
+    <link>http://laomeinote.com/en/tags/docker-compose/</link>
+    <description>Recent content in Docker-Compose on laomeinote</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>wowmarcomei@gmail.com (Marco Mei)</managingEditor>
+    <webMaster>wowmarcomei@gmail.com (Marco Mei)</webMaster>
+    <copyright>©2023, All Rights Reserved</copyright>
+    <lastBuildDate>Sat, 25 Dec 2021 22:01:41 +0000</lastBuildDate>
+    
+        <atom:link href="http://laomeinote.com/en/tags/docker-compose/index.xml" rel="self" type="application/rss+xml" />
+    
+
+      
+      <item>
+        <title>【Docker基础】06-容器编排之Docker-Compose</title>
+        <link>http://laomeinote.com/en/posts/06-docker-compose-for-container-orchestration/</link>
+        <pubDate>Sat, 25 Dec 2021 22:01:41 +0000</pubDate>
+        <author>wowmarcomei@gmail.com (Marco Mei)</author>
+        <atom:modified>Sat, 25 Dec 2021 22:01:41 +0000</atom:modified>
+        <guid>http://laomeinote.com/en/posts/06-docker-compose-for-container-orchestration/</guid>
+        <description>Docker Compose是什么？它是Docker的编排开源组件，后被Docker收购，是当年社区内火爆程度仅次于Docker的开源项目，Docker</description>
+        
+        <dc:creator>Marco Mei</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>Docker</category>
+            
+          
+            
+              <category>Docker-Compose</category>
+            
+          
+        
+        
+          
+            
+              <category>Docker</category>
+            
+          
+        
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>

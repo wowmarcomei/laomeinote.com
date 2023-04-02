@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>VXLAN on laomeinote</title>
+    <link>http://laomeinote.com/zh/tags/vxlan/</link>
+    <description>Recent content in VXLAN on laomeinote</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <managingEditor>wowmarcomei@gmail.com (Marco Mei)</managingEditor>
+    <webMaster>wowmarcomei@gmail.com (Marco Mei)</webMaster>
+    <copyright>©2023, All Rights Reserved</copyright>
+    <lastBuildDate>Fri, 24 Dec 2021 22:31:41 +0000</lastBuildDate>
+    
+        <atom:link href="http://laomeinote.com/zh/tags/vxlan/index.xml" rel="self" type="application/rss+xml" />
+    
+
+      
+      <item>
+        <title>【Docker基础】05-Docker网络</title>
+        <link>http://laomeinote.com/zh/posts/05-docker-network/</link>
+        <pubDate>Fri, 24 Dec 2021 22:31:41 +0000</pubDate>
+        <author>wowmarcomei@gmail.com (Marco Mei)</author>
+        <atom:modified>Fri, 24 Dec 2021 22:31:41 +0000</atom:modified>
+        <guid>http://laomeinote.com/zh/posts/05-docker-network/</guid>
+        <description>容器网络比较复杂，目前主流的网络方案是以VXLAN为主的Overlay方案，关于VXLAN的理解，可以参考这篇文章《什么是VXLAN》。 这篇</description>
+        
+        <dc:creator>Marco Mei</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>Docker</category>
+            
+          
+            
+              <category>VXLAN</category>
+            
+          
+        
+        
+          
+            
+              <category>Docker</category>
+            
+          
+        
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>

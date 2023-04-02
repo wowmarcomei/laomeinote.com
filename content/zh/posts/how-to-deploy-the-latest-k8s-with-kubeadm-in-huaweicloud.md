@@ -1,5 +1,5 @@
 ---
-title: 【Kubernets实践】01-在华为云用Kubeadm上部署K8s V1.23.1集群
+title: K8s 01-在华为云用Kubeadm上部署K8s V1.23.1集群
 date: 2021-12-26 22:31:41
 updated: 2021-12-26 22:31:41
 description: 使用Kubeadm快速在华为云上搭建最新V1.23.1版本Kubenetes ，使用Flannel作为网络插件，使用Rook快速搭建存储解决方案。

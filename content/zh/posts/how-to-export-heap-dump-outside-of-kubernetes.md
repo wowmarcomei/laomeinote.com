@@ -1,5 +1,5 @@
 ---
-title: 【Kubernets实践】15-在K8s中导出Java的Heap dump信息
+title: K8s 15-在K8s中导出Java的Heap dump信息
 date: 2022-04-13 20:19:21
 updated: 2022-04-13 20:19:21
 categories: 
