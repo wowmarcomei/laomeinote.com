@@ -1,20 +1,21 @@
 ---
-title: K8s 9-使用ConfigMap往容器中注入配置信息
+title: 09-往容器中注入配置信息
 date: 2022-03-28 21:15:26
 updated: 2022-03-28 21:15:26
 
-description: 应用的配置在Kubernetes中可通过ConfigMap资源对象来实现，避免被直接写死到应用程序中，比如应用连接一个redis服务，下一次想更换另一个，如果写死的话，就得重新修改代码，重新制作新镜像。而利用ConfigMap就可以很方便地向容器中注入配置信息。**类似于Windows/Linux中的环境变量的配置**。
+description: 应用的配置在Kubernetes中可通过ConfigMap资源对象来实现，避免被直接写死到应用程序中。
 categories: 
-  - K8s
+  - 技术笔记
 
 tags: 
   - K8s
   - Kubernetes
   - CloudNative
-
+series:
+  - K8s
+image: images/posts/kubernetes.png
+meta_image: images/posts/kubernetes.png
 keywords: kubernetes,k8s,ConfigMap,
-
-cover: https://cos.meixuhong.com/imgs/kubernetes.png
 ---
 
 应用的配置在Kubernetes中可通过ConfigMap资源对象来实现，避免被直接写死到应用程序中，比如应用连接一个redis服务，下一次想更换另一个，如果写死的话，就得重新修改代码，重新制作新镜像。而利用ConfigMap就可以很方便地向容器中注入配置信息。**类似于Windows/Linux中的环境变量的配置**。
@@ -315,3 +316,7 @@ spec:
 ```
 
 参考链接：https://blog.51cto.com/wzlinux/2331050
+
+---
+
+全文完。

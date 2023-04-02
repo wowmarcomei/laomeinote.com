@@ -1,18 +1,18 @@
 ---
-title: Linux Shell中文本处理三剑客之grep与正则表达式
+title: Linux Shell之grep与正则
 date: 2021-12-15 22:15:01
 updated: 2021-12-15 22:15:01
 description: grep、sed、awk并称为linux文本处理器三剑客，本文主要总结grep基础使用方法。
 categories: 
-  - Linux
+  - 技术笔记
 
 tags: 
   - Linux
   - Shell
 
-keywords: linux,grep,shell,
-
-cover: https://cos.meixuhong.com/imgs/Linux_logo.png
+keywords: linux,grep,shell
+image: images/posts/Linux_logo.png
+meta_image: images/posts/Linux_logo.png
 ---
 
 **grep**：global  regular expressions print，全局正则表达式打印。主要用于在一个或者多个文件中，查找特定的单个字符、字符串、单词或句子，并打印出来。这个特定的字符(字符串)就是通过**正则表达式**(regular expressions print)来描述。
@@ -157,3 +157,7 @@ cat reg.txt |grep -n 'love'
 可见只匹配上了第三行。
 
  grep 命令的功能非常强大，通过利用它的不同选项以及变化万千的正则表达式，可以获取任何我们所需要的信息。本节所介绍的 grep  命令，只介绍了它的一部分基础知识。也可到https://linuxtools-rst.readthedocs.io/zh_CN/latest/base/03_text_processing.html#id4查看对应文本处理章节。
+
+--------
+
+全文完。
