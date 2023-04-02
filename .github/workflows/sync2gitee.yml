@@ -1,0 +1,23 @@
+name: Sync Gitee
+
+on:
+  push:
+    branches: [ main ] # 这里根据实际情况修改要同步的分支名称
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v2
+
+      - name: Set Gitee URL
+        run: |
+          echo ${{ secrets.GITEE_URL }} > GITEE_URL
+
+      - name: Sync to Gitee
+        env:
+          GITEE_TOKEN: ${{ secrets.GITEE_TOKEN }}
+        run: |
+          git remote add gitee $(cat GITEE_URL)
+          git push gitee HEAD:main --force
