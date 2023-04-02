@@ -10,7 +10,7 @@ tags:
   - Harbor
   - K8s
 
-keywords: harbor,docker,梅旭红
+keywords: harbor,docker
 
 cover: https://cos.meixuhong.com/imgs/harbor-logo.png  
 ---

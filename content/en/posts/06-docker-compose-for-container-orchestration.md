@@ -10,7 +10,7 @@ tags:
   - Docker
   - Docker-Compose
 
-keywords: Docker,Docker-Compose,梅旭红
+keywords: Docker,Docker-Compose
 
 cover: https://cos.meixuhong.com/imgs/docker-logo.png
 ---

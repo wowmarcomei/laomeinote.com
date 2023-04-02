@@ -10,7 +10,7 @@ tags:
   - Docker
   - VXLAN
 
-keywords: Docker,Docker网络,Flannel,桥接,VXLAN,梅旭红
+keywords: Docker,Docker网络,Flannel,桥接,VXLAN
 
 cover: https://cos.meixuhong.com/imgs/docker-logo.png
 ---

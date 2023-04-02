@@ -11,7 +11,7 @@ tags:
   - Kubernetes
   - CloudNative
 
-keywords: kubernetes,k8s,pod,生命周期,rolling update,梅旭红
+keywords: kubernetes,k8s,pod,生命周期,rolling update
 
 cover: https://cos.meixuhong.com/imgs/kubernetes.png
 ---

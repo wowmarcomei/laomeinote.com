@@ -10,7 +10,7 @@ tags:
   - Docker
   - 存储
 
-keywords: Docker,Docker基础,Docker存储,华为云,梅旭红
+keywords: Docker,Docker基础,Docker存储,华为云
 
 cover: https://cos.meixuhong.com/imgs/docker-storage.png
 ---

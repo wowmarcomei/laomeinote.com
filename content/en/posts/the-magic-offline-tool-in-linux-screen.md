@@ -10,7 +10,7 @@ tags:
   - Linux
   - Shell
 
-keywords: linux,screen,shell,梅旭红
+keywords: linux,screen,shell
 
 cover: https://cos.meixuhong.com/imgs/Linux_logo.png
 ---

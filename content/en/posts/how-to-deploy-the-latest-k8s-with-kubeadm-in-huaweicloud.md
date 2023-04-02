@@ -11,7 +11,7 @@ tags:
   - Kubernetes
   - CloudNative
 
-keywords: Kubeadm,kubernetes,k8s,华为云,1.23.1,梅旭红
+keywords: Kubeadm,kubernetes,k8s,华为云,1.23.1
 
 cover: https://cos.meixuhong.com/imgs/kubernetes.png
 ---

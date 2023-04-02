@@ -9,7 +9,7 @@ categories:
 tags: 
   - Docker
 
-keywords: Docker,Docker基础,华为云,梅旭红
+keywords: Docker,Docker基础,华为云
 
 cover: https://cos.meixuhong.com/imgs/docker-logo.png
 ---

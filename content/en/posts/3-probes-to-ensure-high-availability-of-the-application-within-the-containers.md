@@ -10,7 +10,7 @@ tags:
   - Kubernetes
   - CloudNative
 
-keywords: kubernetes,k8s,probe,startup,readiness,liveness,梅旭红
+keywords: kubernetes,k8s,probe,startup,readiness,liveness
 
 cover: https://cos.meixuhong.com/imgs/kubernetes.png
 ---

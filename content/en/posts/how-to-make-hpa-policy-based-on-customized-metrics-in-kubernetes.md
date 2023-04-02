@@ -12,7 +12,7 @@ tags:
   - Kubernetes
   - CloudNative
 
-keywords: kubernetes,k8s,HPA,metrics,prometheus,customized metrics,梅旭红
+keywords: kubernetes,k8s,HPA,metrics,prometheus,customized metrics
 
 cover: https://cos.meixuhong.com/imgs/kubernetes.png
 ---

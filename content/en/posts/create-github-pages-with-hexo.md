@@ -10,7 +10,7 @@ tags:
   - Hexo
   - Github
   - Git
-keywords: github,gitbook,梅旭红
+keywords: github,gitbook
 
 cover: https://cos.meixuhong.com/imgs/hexo-cover.png
 ---

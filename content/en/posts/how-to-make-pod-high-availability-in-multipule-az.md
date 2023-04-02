@@ -11,7 +11,7 @@ tags:
   - Kubernetes
   - CloudNative
 
-keywords: kubernetes,k8s,多AZ,高可用,亲和,反亲和,梅旭红
+keywords: kubernetes,k8s,多AZ,高可用,亲和,反亲和
 
 cover: https://cos.meixuhong.com/imgs/kubernetes.png
 ---

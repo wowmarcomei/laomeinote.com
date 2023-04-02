@@ -10,7 +10,7 @@ tags:
   - Kubernetes
   - CloudNative
 
-keywords: kubernetes,k8s,images,delete,删除镜像,kubelet GC,daemonset,job,梅旭红
+keywords: kubernetes,k8s,images,delete,删除镜像,kubelet GC,daemonset,job
 
 cover: https://cos.meixuhong.com/imgs/kubernetes.png
 ---

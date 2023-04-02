@@ -10,7 +10,7 @@ tags:
   - Linux
   - Shell
 
-keywords: linux,shell,数字,linux shell,梅旭红
+keywords: linux,shell,数字,linux shell
 
 cover: https://cos.meixuhong.com/imgs/Linux_shell.png
 ---

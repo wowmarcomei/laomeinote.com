@@ -10,7 +10,7 @@ tags:
   - Linux
   - Centos
 
-keywords: 依赖包，本地仓库，repository,linux,centos,梅旭红
+keywords: 依赖包，本地仓库，repository,linux,centos
 
 cover: https://cos.meixuhong.com/imgs/Linux_logo.png
 ---

@@ -10,7 +10,7 @@ tags:
   - Linux
   - Shell
 
-keywords: linux,grep,shell,梅旭红
+keywords: linux,grep,shell
 
 cover: https://cos.meixuhong.com/imgs/Linux_logo.png
 ---

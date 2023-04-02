@@ -10,7 +10,7 @@ tags:
   - Kubernetes
   - CloudNative
 
-keywords: kubernetes,k8s,downward api,环境变量,hostname,梅旭红
+keywords: kubernetes,k8s,downward api,环境变量,hostname
 
 cover: https://cos.meixuhong.com/imgs/kubernetes.png
 ---

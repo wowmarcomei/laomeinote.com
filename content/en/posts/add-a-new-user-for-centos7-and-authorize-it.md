@@ -10,7 +10,7 @@ tags:
   - Linux
   - Centos
 
-keywords: linux,centos,梅旭红
+keywords: linux,centos
 
 cover: https://cos.meixuhong.com/imgs/centos.png
 ---

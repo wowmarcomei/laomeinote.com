@@ -10,7 +10,7 @@ tags:
   - Kubernetes
   - CloudNative
 
-keywords: kubernetes,k8s,heap dump,java,jvm,梅旭红
+keywords: kubernetes,k8s,heap dump,java,jvm
 
 cover: https://cos.meixuhong.com/imgs/kubernetes.png
 ---

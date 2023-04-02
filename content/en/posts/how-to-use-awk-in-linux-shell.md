@@ -10,7 +10,7 @@ tags:
   - Linux
   - Shell
 
-keywords: linux,awk,shell,梅旭红
+keywords: linux,awk,shell
 
 cover: https://cos.meixuhong.com/imgs/Linux_logo.png
 ---

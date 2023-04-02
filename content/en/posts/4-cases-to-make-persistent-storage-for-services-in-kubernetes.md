@@ -10,7 +10,7 @@ tags:
   - Kubernetes
   - CloudNative
 
-keywords: kubernetes,k8s,持久化,存储,数据,梅旭红
+keywords: kubernetes,k8s,持久化,存储,数据
 
 cover: https://cos.meixuhong.com/imgs/kubernetes.png
 ---

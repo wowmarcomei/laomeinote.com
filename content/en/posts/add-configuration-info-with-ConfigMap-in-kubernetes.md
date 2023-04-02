@@ -12,7 +12,7 @@ tags:
   - Kubernetes
   - CloudNative
 
-keywords: kubernetes,k8s,ConfigMap,梅旭红
+keywords: kubernetes,k8s,ConfigMap
 
 cover: https://cos.meixuhong.com/imgs/kubernetes.png
 ---

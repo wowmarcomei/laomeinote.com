@@ -10,7 +10,7 @@ tags:
   - Docker
   - Dockefile
 
-keywords: Docker,Docker基础,Dockerfile,华为云,梅旭红
+keywords: Docker,Docker基础,Dockerfile,华为云
 
 cover: https://cos.meixuhong.com/imgs/Dockerfile.png
 ---
