@@ -16,7 +16,7 @@ notAllowedTypesInHomeFeed = ["about", "archive", "contact", "talks", "showcase",
 
 viewportSize = "wide" # widest, wider, wide, normal, narrow 5种页面显示宽度
 enableUiAnimation = false
-hideSingleContentsWhenJSDisabled = false
+hideSingleContentsWhenJSDisabled = true
 enablePinnedPosts = true
 minItemsToShowInTagCloud = 1 # Minimum items to show in tag cloud
 

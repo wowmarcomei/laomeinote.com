@@ -1,0 +1,1210 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>技术笔记 on laomeinote</title>
+    <link>http://laomeinote.com/categories/%E6%8A%80%E6%9C%AF%E7%AC%94%E8%AE%B0/</link>
+    <description>Recent content in 技术笔记 on laomeinote</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <managingEditor>wowmarcomei@gmail.com (LaoMei)</managingEditor>
+    <webMaster>wowmarcomei@gmail.com (LaoMei)</webMaster>
+    <copyright>©2023, All Rights Reserved</copyright>
+    <lastBuildDate>Sun, 17 Apr 2022 20:19:21 +0000</lastBuildDate>
+    
+        <atom:link href="http://laomeinote.com/categories/%E6%8A%80%E6%9C%AF%E7%AC%94%E8%AE%B0/index.xml" rel="self" type="application/rss+xml" />
+    
+
+      
+      <item>
+        <title>16-使用探针保障容器高可用</title>
+        <link>http://laomeinote.com/posts/use-probes-within-the-containers/</link>
+        <pubDate>Sun, 17 Apr 2022 20:19:21 +0000</pubDate>
+        <author>wowmarcomei@gmail.com (LaoMei)</author>
+        <atom:modified>Sun, 17 Apr 2022 20:19:21 +0000</atom:modified>
+        <guid>http://laomeinote.com/posts/use-probes-within-the-containers/</guid>
+        <description>场景与需求： POD中的容器在启动后才能接管业务流量，如果启动失败要能够重启； 如果容器在运行过程中，出现OOM错误或网络不通等，要能够使得该容</description>
+        
+        <dc:creator>LaoMei</dc:creator>
+        <media:content url="http://laomeinote.comimages/posts/kubernetes.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        <media:content url="http://laomeinote.comimages/posts/kubernetes.png" medium="image"><media:title type="html">meta image</media:title></media:content>
+        
+          
+            
+              <category>K8s</category>
+            
+          
+            
+              <category>Kubernetes</category>
+            
+          
+            
+              <category>CloudNative</category>
+            
+          
+        
+        
+          
+            
+              <category>技术笔记</category>
+            
+          
+        
+        
+          
+            
+              <category>K8s</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>15-在K8s中导出Heap dump信息</title>
+        <link>http://laomeinote.com/posts/how-to-export-heap-dump-outside-of-k8s/</link>
+        <pubDate>Wed, 13 Apr 2022 20:19:21 +0000</pubDate>
+        <author>wowmarcomei@gmail.com (LaoMei)</author>
+        <atom:modified>Wed, 13 Apr 2022 20:19:21 +0000</atom:modified>
+        <guid>http://laomeinote.com/posts/how-to-export-heap-dump-outside-of-k8s/</guid>
+        <description>场景：应用基于Kubernetes部署，应用开发者受限登陆集群节点下载文件。当Java（或者其他）应用出现OOM异常需要生成heap dump</description>
+        
+        <dc:creator>LaoMei</dc:creator>
+        <media:content url="http://laomeinote.comimages/posts/kubernetes.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        <media:content url="http://laomeinote.comimages/posts/kubernetes.png" medium="image"><media:title type="html">meta image</media:title></media:content>
+        
+          
+            
+              <category>K8s</category>
+            
+          
+            
+              <category>Kubernetes</category>
+            
+          
+            
+              <category>CloudNative</category>
+            
+          
+        
+        
+          
+            
+              <category>技术笔记</category>
+            
+          
+        
+        
+          
+            
+              <category>K8s</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>14-向容器中注入主机信息</title>
+        <link>http://laomeinote.com/posts/how-to-inject-host-info-to-container/</link>
+        <pubDate>Sat, 09 Apr 2022 20:19:21 +0000</pubDate>
+        <author>wowmarcomei@gmail.com (LaoMei)</author>
+        <atom:modified>Sat, 09 Apr 2022 20:19:21 +0000</atom:modified>
+        <guid>http://laomeinote.com/posts/how-to-inject-host-info-to-container/</guid>
+        <description>需求背景：一些自研插件通过sidecar容器提供服务，容器需要获取到当前所在节点的IP与hostname作为环境变量传递给应用。 Kubern</description>
+        
+        <dc:creator>LaoMei</dc:creator>
+        <media:content url="http://laomeinote.comimages/posts/kubernetes.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        <media:content url="http://laomeinote.comimages/posts/kubernetes.png" medium="image"><media:title type="html">meta image</media:title></media:content>
+        
+          
+            
+              <category>K8s</category>
+            
+          
+            
+              <category>Kubernetes</category>
+            
+          
+            
+              <category>CloudNative</category>
+            
+          
+        
+        
+          
+            
+              <category>技术笔记</category>
+            
+          
+        
+        
+          
+            
+              <category>K8s</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>13-容器数据持久化存储</title>
+        <link>http://laomeinote.com/posts/persistent-storage-for-services-in-k8s/</link>
+        <pubDate>Fri, 08 Apr 2022 20:19:21 +0000</pubDate>
+        <author>wowmarcomei@gmail.com (LaoMei)</author>
+        <atom:modified>Fri, 08 Apr 2022 20:19:21 +0000</atom:modified>
+        <guid>http://laomeinote.com/posts/persistent-storage-for-services-in-k8s/</guid>
+        <description>通常容器的生命周期是不固定的、甚至是比较短的，但是它生成的数据可能是有价值的需要长期保存的，即持久化存储。在Kubernetes中持久化存储</description>
+        
+        <dc:creator>LaoMei</dc:creator>
+        <media:content url="http://laomeinote.comimages/posts/kubernetes.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        <media:content url="http://laomeinote.comimages/posts/kubernetes.png" medium="image"><media:title type="html">meta image</media:title></media:content>
+        
+          
+            
+              <category>K8s</category>
+            
+          
+            
+              <category>Kubernetes</category>
+            
+          
+            
+              <category>CloudNative</category>
+            
+          
+        
+        
+          
+            
+              <category>技术笔记</category>
+            
+          
+        
+        
+          
+            
+              <category>K8s</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>12-快速删除集群所有节点上镜像</title>
+        <link>http://laomeinote.com/posts/delete-images-in-all-node-rapidly/</link>
+        <pubDate>Tue, 05 Apr 2022 20:19:21 +0000</pubDate>
+        <author>wowmarcomei@gmail.com (LaoMei)</author>
+        <atom:modified>Tue, 05 Apr 2022 20:19:21 +0000</atom:modified>
+        <guid>http://laomeinote.com/posts/delete-images-in-all-node-rapidly/</guid>
+        <description>1. 背景 大规模集群上每个节点都有大量镜像需要定期维护，如果通过Kubelet GC机制垃圾回收镜像的话，可能会导致原本还在用的镜像被误删除。所以</description>
+        
+        <dc:creator>LaoMei</dc:creator>
+        <media:content url="http://laomeinote.comimages/posts/kubernetes.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        <media:content url="http://laomeinote.comimages/posts/kubernetes.png" medium="image"><media:title type="html">meta image</media:title></media:content>
+        
+          
+            
+              <category>K8s</category>
+            
+          
+            
+              <category>Kubernetes</category>
+            
+          
+            
+              <category>CloudNative</category>
+            
+          
+        
+        
+          
+            
+              <category>技术笔记</category>
+            
+          
+        
+        
+          
+            
+              <category>K8s</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>11-通过VPA实现资源灵活调度</title>
+        <link>http://laomeinote.com/posts/how-to-make-vpa-policy-in-kubernetes/</link>
+        <pubDate>Thu, 31 Mar 2022 20:13:17 +0000</pubDate>
+        <author>wowmarcomei@gmail.com (LaoMei)</author>
+        <atom:modified>Thu, 31 Mar 2022 20:13:17 +0000</atom:modified>
+        <guid>http://laomeinote.com/posts/how-to-make-vpa-policy-in-kubernetes/</guid>
+        <description>相对于HPA横向弹性伸缩POD数量，VPA垂直弹性会在现有POD基础上对POD的CPU与内存进行弹性，它根据容器资源使用率自动设置 CPU 和 内存 的</description>
+        
+        <dc:creator>LaoMei</dc:creator>
+        <media:content url="http://laomeinote.comimages/posts/kubernetes.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        <media:content url="http://laomeinote.comimages/posts/kubernetes.png" medium="image"><media:title type="html">meta image</media:title></media:content>
+        
+          
+            
+              <category>K8s</category>
+            
+          
+            
+              <category>Kubernetes</category>
+            
+          
+            
+              <category>CloudNative</category>
+            
+          
+        
+        
+          
+            
+              <category>技术笔记</category>
+            
+          
+        
+        
+          
+            
+              <category>K8s</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>10-向容器中注入加密信息</title>
+        <link>http://laomeinote.com/posts/inject-secret-info-to-container/</link>
+        <pubDate>Thu, 31 Mar 2022 18:36:40 +0000</pubDate>
+        <author>wowmarcomei@gmail.com (LaoMei)</author>
+        <atom:modified>Thu, 31 Mar 2022 18:36:40 +0000</atom:modified>
+        <guid>http://laomeinote.com/posts/inject-secret-info-to-container/</guid>
+        <description>一般ConfigMap用于保存通用配置信息，属于明文信息，不能保存密钥，如果要保存密钥等加密信息，Kubernetes提供Secret对象进</description>
+        
+        <dc:creator>LaoMei</dc:creator>
+        <media:content url="http://laomeinote.comimages/posts/kubernetes.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        <media:content url="http://laomeinote.comimages/posts/kubernetes.png" medium="image"><media:title type="html">meta image</media:title></media:content>
+        
+          
+            
+              <category>K8s</category>
+            
+          
+            
+              <category>Kubernetes</category>
+            
+          
+            
+              <category>CloudNative</category>
+            
+          
+        
+        
+          
+            
+              <category>技术笔记</category>
+            
+          
+        
+        
+          
+            
+              <category>K8s</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>09-往容器中注入配置信息</title>
+        <link>http://laomeinote.com/posts/add-configuration-info-with-configmap/</link>
+        <pubDate>Mon, 28 Mar 2022 21:15:26 +0000</pubDate>
+        <author>wowmarcomei@gmail.com (LaoMei)</author>
+        <atom:modified>Mon, 28 Mar 2022 21:15:26 +0000</atom:modified>
+        <guid>http://laomeinote.com/posts/add-configuration-info-with-configmap/</guid>
+        <description>应用的配置在Kubernetes中可通过ConfigMap资源对象来实现，避免被直接写死到应用程序中，比如应用连接一个redis服务，下一次</description>
+        
+        <dc:creator>LaoMei</dc:creator>
+        <media:content url="http://laomeinote.comimages/posts/kubernetes.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        <media:content url="http://laomeinote.comimages/posts/kubernetes.png" medium="image"><media:title type="html">meta image</media:title></media:content>
+        
+          
+            
+              <category>K8s</category>
+            
+          
+            
+              <category>Kubernetes</category>
+            
+          
+            
+              <category>CloudNative</category>
+            
+          
+        
+        
+          
+            
+              <category>技术笔记</category>
+            
+          
+        
+        
+          
+            
+              <category>K8s</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>08-基于自定义指标实现HPA弹性</title>
+        <link>http://laomeinote.com/posts/how-to-make-hpa-with-customized-metrics-in-k8s/</link>
+        <pubDate>Fri, 18 Feb 2022 19:01:16 +0000</pubDate>
+        <author>wowmarcomei@gmail.com (LaoMei)</author>
+        <atom:modified>Fri, 18 Feb 2022 19:01:16 +0000</atom:modified>
+        <guid>http://laomeinote.com/posts/how-to-make-hpa-with-customized-metrics-in-k8s/</guid>
+        <description>除了基于 CPU 和内存来进行自动扩缩容之外，有些业务需要基于自定义指标进行HPA弹性伸缩，通用做法是结合prometheus能力。 如上图示，基于自</description>
+        
+        <dc:creator>LaoMei</dc:creator>
+        <media:content url="http://laomeinote.comimages/posts/kubernetes.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        <media:content url="http://laomeinote.comimages/posts/kubernetes.png" medium="image"><media:title type="html">meta image</media:title></media:content>
+        
+          
+            
+              <category>K8s</category>
+            
+          
+            
+              <category>Kubernetes</category>
+            
+          
+            
+              <category>CloudNative</category>
+            
+          
+        
+        
+          
+            
+              <category>技术笔记</category>
+            
+          
+        
+        
+          
+            
+              <category>K8s</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>07-基于CPU和内存指标实现HPA弹性</title>
+        <link>http://laomeinote.com/posts/how-to-make-hpa-with-basic-metrics-in-k8s/</link>
+        <pubDate>Tue, 15 Feb 2022 20:12:21 +0000</pubDate>
+        <author>wowmarcomei@gmail.com (LaoMei)</author>
+        <atom:modified>Tue, 15 Feb 2022 20:12:21 +0000</atom:modified>
+        <guid>http://laomeinote.com/posts/how-to-make-hpa-with-basic-metrics-in-k8s/</guid>
+        <description>Kubernetes中弹性伸缩最主要的就是使用HPA（Horizontal Pod Autoscaling）和CA（Cluster AutoScali</description>
+        
+        <dc:creator>LaoMei</dc:creator>
+        <media:content url="http://laomeinote.comimages/posts/kubernetes.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        <media:content url="http://laomeinote.comimages/posts/kubernetes.png" medium="image"><media:title type="html">meta image</media:title></media:content>
+        
+          
+            
+              <category>K8s</category>
+            
+          
+            
+              <category>Kubernetes</category>
+            
+          
+            
+              <category>CloudNative</category>
+            
+          
+        
+        
+          
+            
+              <category>技术笔记</category>
+            
+          
+        
+        
+          
+            
+              <category>K8s</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>06-POD在多AZ之间高可用的实现</title>
+        <link>http://laomeinote.com/posts/how-to-make-pod-ha-in-multipule-az/</link>
+        <pubDate>Sat, 12 Feb 2022 18:18:21 +0000</pubDate>
+        <author>wowmarcomei@gmail.com (LaoMei)</author>
+        <atom:modified>Sat, 12 Feb 2022 18:18:21 +0000</atom:modified>
+        <guid>http://laomeinote.com/posts/how-to-make-pod-ha-in-multipule-az/</guid>
+        <description>1、原理 通过K8s的亲和性和反亲和性设置，可以将POD在节点间调度。 亲和性（affinity）：将多个POD部署在同一个节点上，容器间通信无</description>
+        
+        <dc:creator>LaoMei</dc:creator>
+        <media:content url="http://laomeinote.comimages/posts/kubernetes.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        <media:content url="http://laomeinote.comimages/posts/kubernetes.png" medium="image"><media:title type="html">meta image</media:title></media:content>
+        
+          
+            
+              <category>K8s</category>
+            
+          
+            
+              <category>Kubernetes</category>
+            
+          
+            
+              <category>CloudNative</category>
+            
+          
+        
+        
+          
+            
+              <category>技术笔记</category>
+            
+          
+        
+        
+          
+            
+              <category>K8s</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>05-通过RBAC授权API对象的操作</title>
+        <link>http://laomeinote.com/posts/how-to-authority-users-with-rbac-in-k8s/</link>
+        <pubDate>Wed, 09 Feb 2022 20:18:16 +0000</pubDate>
+        <author>wowmarcomei@gmail.com (LaoMei)</author>
+        <atom:modified>Wed, 09 Feb 2022 20:18:16 +0000</atom:modified>
+        <guid>http://laomeinote.com/posts/how-to-authority-users-with-rbac-in-k8s/</guid>
+        <description>RBAC：即role-based access control，基于角色的访问控制。RBAC 鉴权机制使用 rbac.authorization.k8s.io API 组 来驱动鉴权，通过 Kubernetes API 动态配置策略。 RBAC的</description>
+        
+        <dc:creator>LaoMei</dc:creator>
+        <media:content url="http://laomeinote.comimages/posts/kubernetes.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        <media:content url="http://laomeinote.comimages/posts/kubernetes.png" medium="image"><media:title type="html">meta image</media:title></media:content>
+        
+          
+            
+              <category>K8s</category>
+            
+          
+            
+              <category>Kubernetes</category>
+            
+          
+            
+              <category>CloudNative</category>
+            
+          
+        
+        
+          
+            
+              <category>技术笔记</category>
+            
+          
+        
+        
+          
+            
+              <category>K8s</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>04-POD初始化与滚动更新</title>
+        <link>http://laomeinote.com/posts/how-to-initiate-and-update-pod/</link>
+        <pubDate>Thu, 13 Jan 2022 19:51:16 +0000</pubDate>
+        <author>wowmarcomei@gmail.com (LaoMei)</author>
+        <atom:modified>Thu, 13 Jan 2022 19:51:16 +0000</atom:modified>
+        <guid>http://laomeinote.com/posts/how-to-initiate-and-update-pod/</guid>
+        <description>1. POD的生命周期 一个 Pod 的完整生命周期过程包含 Init Container、Pod Hook、健康检查 三个主要部分，如下图所示。 其中Init Conta</description>
+        
+        <dc:creator>LaoMei</dc:creator>
+        <media:content url="http://laomeinote.comimages/posts/kubernetes.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        <media:content url="http://laomeinote.comimages/posts/kubernetes.png" medium="image"><media:title type="html">meta image</media:title></media:content>
+        
+          
+            
+              <category>K8s</category>
+            
+          
+            
+              <category>Kubernetes</category>
+            
+          
+            
+              <category>CloudNative</category>
+            
+          
+        
+        
+          
+            
+              <category>技术笔记</category>
+            
+          
+        
+        
+          
+            
+              <category>K8s</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>03-K8s从私有仓库中拉取镜像</title>
+        <link>http://laomeinote.com/posts/pull-images-from-private-repository/</link>
+        <pubDate>Wed, 29 Dec 2021 18:49:16 +0000</pubDate>
+        <author>wowmarcomei@gmail.com (LaoMei)</author>
+        <atom:modified>Wed, 29 Dec 2021 18:49:16 +0000</atom:modified>
+        <guid>http://laomeinote.com/posts/pull-images-from-private-repository/</guid>
+        <description>本文介绍如何使用 Secret 从私有镜像仓库或代码仓库拉取镜像来创建 Pod。 准备工作 Kubernetes集群 私有仓库 可登陆私有仓库的账号 登录Docker</description>
+        
+        <dc:creator>LaoMei</dc:creator>
+        <media:content url="http://laomeinote.comimages/posts/kubernetes.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        <media:content url="http://laomeinote.comimages/posts/kubernetes.png" medium="image"><media:title type="html">meta image</media:title></media:content>
+        
+          
+            
+              <category>K8s</category>
+            
+          
+            
+              <category>Kubernetes</category>
+            
+          
+            
+              <category>CloudNative</category>
+            
+          
+        
+        
+          
+            
+              <category>技术笔记</category>
+            
+          
+        
+        
+          
+            
+              <category>K8s</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>02-使用YAML部署与升级Nginx</title>
+        <link>http://laomeinote.com/posts/deploy-and-update-nginx-with-yaml/</link>
+        <pubDate>Tue, 28 Dec 2021 19:01:41 +0000</pubDate>
+        <author>wowmarcomei@gmail.com (LaoMei)</author>
+        <atom:modified>Tue, 28 Dec 2021 19:01:41 +0000</atom:modified>
+        <guid>http://laomeinote.com/posts/deploy-and-update-nginx-with-yaml/</guid>
+        <description>通过YAML基于kubectl使用原生方式跟API-Server快速交互，创建对应的API对象。 YAML基本语法 YAML的基本语法规则如下：</description>
+        
+        <dc:creator>LaoMei</dc:creator>
+        <media:content url="http://laomeinote.comimages/posts/kubernetes.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        <media:content url="http://laomeinote.comimages/posts/kubernetes.png" medium="image"><media:title type="html">meta image</media:title></media:content>
+        
+          
+            
+              <category>K8s</category>
+            
+          
+            
+              <category>Kubernetes</category>
+            
+          
+            
+              <category>CloudNative</category>
+            
+          
+        
+        
+          
+            
+              <category>技术笔记</category>
+            
+          
+        
+        
+          
+            
+              <category>K8s</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>01-以Kubeadm上部署K8s集群</title>
+        <link>http://laomeinote.com/posts/deploy-k8s-cluster/</link>
+        <pubDate>Sun, 26 Dec 2021 22:31:41 +0000</pubDate>
+        <author>wowmarcomei@gmail.com (LaoMei)</author>
+        <atom:modified>Sun, 26 Dec 2021 22:31:41 +0000</atom:modified>
+        <guid>http://laomeinote.com/posts/deploy-k8s-cluster/</guid>
+        <description>1.环境准备 在华为云上申请3台ECS虚机服务器，临时测试使用，建议按需付费申请。选择VPC为192.168.0.0/16网段，将在这三个节点</description>
+        
+        <dc:creator>Laomei</dc:creator>
+        <media:content url="http://laomeinote.comimages/posts/kubernetes.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        <media:content url="http://laomeinote.comimages/posts/kubernetes.png" medium="image"><media:title type="html">meta image</media:title></media:content>
+        
+          
+            
+              <category>K8s</category>
+            
+          
+            
+              <category>Kubernetes</category>
+            
+          
+            
+              <category>CloudNative</category>
+            
+          
+        
+        
+          
+            
+              <category>技术笔记</category>
+            
+          
+        
+        
+          
+            
+              <category>K8s</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>07-Centos上部署Harbor私有仓库</title>
+        <link>http://laomeinote.com/posts/deploy-harbor-in-centos/</link>
+        <pubDate>Sun, 26 Dec 2021 20:16:41 +0000</pubDate>
+        <author>wowmarcomei@gmail.com (LaoMei)</author>
+        <atom:modified>Sun, 26 Dec 2021 20:16:41 +0000</atom:modified>
+        <guid>http://laomeinote.com/posts/deploy-harbor-in-centos/</guid>
+        <description>Harbor是VMware公司开源的企业级的Docker Registry管理项目，它包括权限管理(RBAC)、LDAP、日志审核、管理界面、</description>
+        
+        <dc:creator>LaoMei</dc:creator>
+        <media:content url="http://laomeinote.comimages/posts/harbor-logo.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        <media:content url="http://laomeinote.comimages/posts/harbor-logo.png" medium="image"><media:title type="html">meta image</media:title></media:content>
+        
+          
+            
+              <category>Docker</category>
+            
+          
+            
+              <category>Harbor</category>
+            
+          
+            
+              <category>K8s</category>
+            
+          
+        
+        
+          
+            
+              <category>技术笔记</category>
+            
+          
+        
+        
+          
+            
+              <category>Docker</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>06-容器编排之Docker-Compose</title>
+        <link>http://laomeinote.com/posts/docker-compose/</link>
+        <pubDate>Sat, 25 Dec 2021 22:01:41 +0000</pubDate>
+        <author>wowmarcomei@gmail.com (LaoMei)</author>
+        <atom:modified>Sat, 25 Dec 2021 22:01:41 +0000</atom:modified>
+        <guid>http://laomeinote.com/posts/docker-compose/</guid>
+        <description>Docker Compose是什么？它是Docker的编排开源组件，后被Docker收购，是当年社区内火爆程度仅次于Docker的开源项目，Docker</description>
+        
+        <dc:creator>LaoMei</dc:creator>
+        <media:content url="http://laomeinote.comimages/posts/docker-logo.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        <media:content url="http://laomeinote.comimages/posts/docker-logo.png" medium="image"><media:title type="html">meta image</media:title></media:content>
+        
+          
+            
+              <category>Docker</category>
+            
+          
+            
+              <category>Docker-Compose</category>
+            
+          
+        
+        
+          
+            
+              <category>技术笔记</category>
+            
+          
+        
+        
+          
+            
+              <category>Docker</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>05-Docker网络</title>
+        <link>http://laomeinote.com/posts/docker-network/</link>
+        <pubDate>Fri, 24 Dec 2021 22:31:41 +0000</pubDate>
+        <author>wowmarcomei@gmail.com (LaoMei)</author>
+        <atom:modified>Fri, 24 Dec 2021 22:31:41 +0000</atom:modified>
+        <guid>http://laomeinote.com/posts/docker-network/</guid>
+        <description>容器网络比较复杂，目前主流的网络方案是以VXLAN为主的Overlay方案，关于VXLAN的理解，可以参考这篇文章《什么是VXLAN》。 这篇</description>
+        
+        <dc:creator>LaoMei</dc:creator>
+        <media:content url="http://laomeinote.comimages/posts/docker-logo.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        <media:content url="http://laomeinote.comimages/posts/docker-logo.png" medium="image"><media:title type="html">meta image</media:title></media:content>
+        
+          
+            
+              <category>Docker</category>
+            
+          
+            
+              <category>VXLAN</category>
+            
+          
+        
+        
+          
+            
+              <category>技术笔记</category>
+            
+          
+        
+        
+          
+            
+              <category>Docker</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>04-Docker数据存储</title>
+        <link>http://laomeinote.com/posts/docker-data-storage/</link>
+        <pubDate>Thu, 23 Dec 2021 21:31:41 +0000</pubDate>
+        <author>wowmarcomei@gmail.com (LaoMei)</author>
+        <atom:modified>Thu, 23 Dec 2021 21:31:41 +0000</atom:modified>
+        <guid>http://laomeinote.com/posts/docker-data-storage/</guid>
+        <description>Docker提供两种数据存储资源，一种是基于storage driver提供的镜像层和容器层，一种是基于data volume提供的持久化存储。</description>
+        
+        <dc:creator>Laomei</dc:creator>
+        <media:content url="http://laomeinote.comimages/posts/docker-logo.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        <media:content url="http://laomeinote.comimages/posts/docker-logo.png" medium="image"><media:title type="html">meta image</media:title></media:content>
+        
+          
+            
+              <category>Docker</category>
+            
+          
+            
+              <category>存储</category>
+            
+          
+        
+        
+          
+            
+              <category>技术笔记</category>
+            
+          
+        
+        
+          
+            
+              <category>Docker</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>03-Dockerfile基础</title>
+        <link>http://laomeinote.com/posts/dockerfile-basics/</link>
+        <pubDate>Wed, 22 Dec 2021 21:31:41 +0000</pubDate>
+        <author>wowmarcomei@gmail.com (LaoMei)</author>
+        <atom:modified>Wed, 22 Dec 2021 21:31:41 +0000</atom:modified>
+        <guid>http://laomeinote.com/posts/dockerfile-basics/</guid>
+        <description>Dockerfile是用来干什么的？答案是制作镜像。那么了解Dockerfile之前，首先需要理解几个简单概念。 Dockerfile基础概念</description>
+        
+        <dc:creator>Laomei</dc:creator>
+        <media:content url="http://laomeinote.comimages/posts/docker-logo.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        <media:content url="http://laomeinote.comimages/posts/docker-logo.png" medium="image"><media:title type="html">meta image</media:title></media:content>
+        
+          
+            
+              <category>Docker</category>
+            
+          
+            
+              <category>Dockefile</category>
+            
+          
+        
+        
+          
+            
+              <category>技术笔记</category>
+            
+          
+        
+        
+          
+            
+              <category>Docker</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>02-安装并启动Docker容器</title>
+        <link>http://laomeinote.com/posts/start-a-docker-container/</link>
+        <pubDate>Tue, 21 Dec 2021 21:01:41 +0000</pubDate>
+        <author>wowmarcomei@gmail.com (LaoMei)</author>
+        <atom:modified>Tue, 21 Dec 2021 21:01:41 +0000</atom:modified>
+        <guid>http://laomeinote.com/posts/start-a-docker-container/</guid>
+        <description>1.安装Docker 国内直接访问Docker官网速度较慢，不过国内各大厂商都提供加速服务，我们到华为云镜像站加速。 1.1 Centos安装Dock</description>
+        
+        <dc:creator>Laomei</dc:creator>
+        <media:content url="http://laomeinote.comimages/posts/docker-logo.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        <media:content url="http://laomeinote.comimages/posts/docker-logo.png" medium="image"><media:title type="html">meta image</media:title></media:content>
+        
+          
+            
+              <category>Docker</category>
+            
+          
+        
+        
+          
+            
+              <category>技术笔记</category>
+            
+          
+        
+        
+          
+            
+              <category>Docker</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>01-Docker基本架构与原理</title>
+        <link>http://laomeinote.com/posts/docker-architecture/</link>
+        <pubDate>Mon, 20 Dec 2021 20:01:41 +0000</pubDate>
+        <author>wowmarcomei@gmail.com (LaoMei)</author>
+        <atom:modified>Mon, 20 Dec 2021 20:01:41 +0000</atom:modified>
+        <guid>http://laomeinote.com/posts/docker-architecture/</guid>
+        <description>虽然Kubernetes从1.20版本中不再使用Docker作为容器引擎，但docker还是被广泛使用的，实际上新的Kubernetes容器</description>
+        
+        <dc:creator>Laomei</dc:creator>
+        <media:content url="http://laomeinote.comimages/posts/docker-logo.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        <media:content url="http://laomeinote.comimages/posts/docker-logo.png" medium="image"><media:title type="html">meta image</media:title></media:content>
+        
+          
+            
+              <category>Docker</category>
+            
+          
+        
+        
+          
+            
+              <category>技术笔记</category>
+            
+          
+        
+        
+          
+            
+              <category>Docker</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>Linux Shell之awk</title>
+        <link>http://laomeinote.com/posts/how-to-use-awk-in-linux/</link>
+        <pubDate>Fri, 17 Dec 2021 22:15:01 +0000</pubDate>
+        <author>wowmarcomei@gmail.com (LaoMei)</author>
+        <atom:modified>Fri, 17 Dec 2021 22:15:01 +0000</atom:modified>
+        <guid>http://laomeinote.com/posts/how-to-use-awk-in-linux/</guid>
+        <description>awk是一个强大的文本分析工具，相对于grep的查找，sed的编辑，awk在其对数据分析并生成报告时，显得尤为强大。简单来说awk就是把文件</description>
+        
+        <dc:creator>LaoMei</dc:creator>
+        <media:content url="http://laomeinote.comimages/posts/Linux_logo.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        <media:content url="http://laomeinote.comimages/posts/Linux_logo.png" medium="image"><media:title type="html">meta image</media:title></media:content>
+        
+          
+            
+              <category>Linux</category>
+            
+          
+            
+              <category>Shell</category>
+            
+          
+        
+        
+          
+            
+              <category>技术笔记</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>Linux Shell之sed</title>
+        <link>http://laomeinote.com/posts/how-to-use-sed-in-linux/</link>
+        <pubDate>Thu, 16 Dec 2021 22:15:01 +0000</pubDate>
+        <author>wowmarcomei@gmail.com (LaoMei)</author>
+        <atom:modified>Thu, 16 Dec 2021 22:15:01 +0000</atom:modified>
+        <guid>http://laomeinote.com/posts/how-to-use-sed-in-linux/</guid>
+        <description>sed（stream editor）流编辑器也是linux中的一条命令，通过sed可在shell中实现非交互式修改文件内容。sed处理文本是按</description>
+        
+        <dc:creator>LaoMei</dc:creator>
+        <media:content url="http://laomeinote.comimages/posts/Linux_logo.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        <media:content url="http://laomeinote.comimages/posts/Linux_logo.png" medium="image"><media:title type="html">meta image</media:title></media:content>
+        
+          
+            
+              <category>Linux</category>
+            
+          
+            
+              <category>Shell</category>
+            
+          
+        
+        
+          
+            
+              <category>技术笔记</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>Linux Shell之grep与正则</title>
+        <link>http://laomeinote.com/posts/how-to-use-grep-and-regular-expressions/</link>
+        <pubDate>Wed, 15 Dec 2021 22:15:01 +0000</pubDate>
+        <author>wowmarcomei@gmail.com (LaoMei)</author>
+        <atom:modified>Wed, 15 Dec 2021 22:15:01 +0000</atom:modified>
+        <guid>http://laomeinote.com/posts/how-to-use-grep-and-regular-expressions/</guid>
+        <description>grep：global regular expressions print，全局正则表达式打印。主要用于在一个或者多个文件中，查找特定的单个字符、字符串、单词或句子，并打印出来。</description>
+        
+        <dc:creator>LaoMei</dc:creator>
+        <media:content url="http://laomeinote.comimages/posts/Linux_logo.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        <media:content url="http://laomeinote.comimages/posts/Linux_logo.png" medium="image"><media:title type="html">meta image</media:title></media:content>
+        
+          
+            
+              <category>Linux</category>
+            
+          
+            
+              <category>Shell</category>
+            
+          
+        
+        
+          
+            
+              <category>技术笔记</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>给Centos 7制作依赖包与本地仓库</title>
+        <link>http://laomeinote.com/posts/build-local-repository-in-centos/</link>
+        <pubDate>Sun, 12 Dec 2021 10:03:41 +0000</pubDate>
+        <author>wowmarcomei@gmail.com (LaoMei)</author>
+        <atom:modified>Sun, 12 Dec 2021 10:03:41 +0000</atom:modified>
+        <guid>http://laomeinote.com/posts/build-local-repository-in-centos/</guid>
+        <description>公司内网安全区无法通互联网，原本可以通过yum命令直接下载安装的软件包没法用了，那有没有一种快捷的方法把这些软件包与对应的依赖包一起打包下来</description>
+        
+        <dc:creator>LaoMei</dc:creator>
+        <media:content url="http://laomeinote.comimages/posts/Linux_logo.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        <media:content url="http://laomeinote.comimages/posts/Linux_logo.png" medium="image"><media:title type="html">meta image</media:title></media:content>
+        
+          
+            
+              <category>Linux</category>
+            
+          
+            
+              <category>Centos</category>
+            
+          
+        
+        
+          
+            
+              <category>技术笔记</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>Linux Shell中的数字0,1,2是什么意思</title>
+        <link>http://laomeinote.com/posts/the-numbers-in-linux-shell/</link>
+        <pubDate>Fri, 10 Dec 2021 09:01:41 +0000</pubDate>
+        <author>wowmarcomei@gmail.com (LaoMei)</author>
+        <atom:modified>Fri, 10 Dec 2021 09:01:41 +0000</atom:modified>
+        <guid>http://laomeinote.com/posts/the-numbers-in-linux-shell/</guid>
+        <description>在Shell脚本中经常看到数字0,1,2，到底是什么意思，又有什么用处呢？其实Shell脚本的数字分为两种，一种是文本描述，一种是命令参数，</description>
+        
+        <dc:creator>LaoMei</dc:creator>
+        <media:content url="http://laomeinote.comimages/posts/Linux_shell.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        <media:content url="http://laomeinote.comimages/posts/Linux_shell.png" medium="image"><media:title type="html">meta image</media:title></media:content>
+        
+          
+            
+              <category>Linux</category>
+            
+          
+            
+              <category>Shell</category>
+            
+          
+        
+        
+          
+            
+              <category>技术笔记</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>Linux 的 screen工具</title>
+        <link>http://laomeinote.com/posts/how-to-use-screen-in-linux/</link>
+        <pubDate>Sun, 05 Dec 2021 22:15:01 +0000</pubDate>
+        <author>wowmarcomei@gmail.com (LaoMei)</author>
+        <atom:modified>Sun, 05 Dec 2021 22:15:01 +0000</atom:modified>
+        <guid>http://laomeinote.com/posts/how-to-use-screen-in-linux/</guid>
+        <description>Linux 的 screen工具是终端复用器，可在一个终端窗口中运行多个终端会话，并可进行跨窗口和会话切换，而不必担心丢失连接和状态。我们可将其用于离线</description>
+        
+        <dc:creator>LaoMei</dc:creator>
+        <media:content url="http://laomeinote.comimages/posts/Linux_logo.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        <media:content url="http://laomeinote.comimages/posts/Linux_logo.png" medium="image"><media:title type="html">meta image</media:title></media:content>
+        
+          
+            
+              <category>Linux</category>
+            
+          
+            
+              <category>Shell</category>
+            
+          
+        
+        
+          
+            
+              <category>技术笔记</category>
+            
+          
+        
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>

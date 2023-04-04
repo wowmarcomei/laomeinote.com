@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Centos on laomeinote</title>
+    <link>http://laomeinote.com/tags/centos/</link>
+    <description>Recent content in Centos on laomeinote</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <managingEditor>wowmarcomei@gmail.com (LaoMei)</managingEditor>
+    <webMaster>wowmarcomei@gmail.com (LaoMei)</webMaster>
+    <copyright>©2023, All Rights Reserved</copyright>
+    <lastBuildDate>Sun, 12 Dec 2021 10:03:41 +0000</lastBuildDate>
+    
+        <atom:link href="http://laomeinote.com/tags/centos/index.xml" rel="self" type="application/rss+xml" />
+    
+
+      
+      <item>
+        <title>给Centos 7制作依赖包与本地仓库</title>
+        <link>http://laomeinote.com/posts/build-local-repository-in-centos/</link>
+        <pubDate>Sun, 12 Dec 2021 10:03:41 +0000</pubDate>
+        <author>wowmarcomei@gmail.com (LaoMei)</author>
+        <atom:modified>Sun, 12 Dec 2021 10:03:41 +0000</atom:modified>
+        <guid>http://laomeinote.com/posts/build-local-repository-in-centos/</guid>
+        <description>公司内网安全区无法通互联网，原本可以通过yum命令直接下载安装的软件包没法用了，那有没有一种快捷的方法把这些软件包与对应的依赖包一起打包下来</description>
+        
+        <dc:creator>LaoMei</dc:creator>
+        <media:content url="http://laomeinote.comimages/posts/Linux_logo.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        <media:content url="http://laomeinote.comimages/posts/Linux_logo.png" medium="image"><media:title type="html">meta image</media:title></media:content>
+        
+          
+            
+              <category>Linux</category>
+            
+          
+            
+              <category>Centos</category>
+            
+          
+        
+        
+          
+            
+              <category>技术笔记</category>
+            
+          
+        
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>

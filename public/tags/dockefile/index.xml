@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Dockefile on laomeinote</title>
+    <link>http://laomeinote.com/tags/dockefile/</link>
+    <description>Recent content in Dockefile on laomeinote</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <managingEditor>wowmarcomei@gmail.com (LaoMei)</managingEditor>
+    <webMaster>wowmarcomei@gmail.com (LaoMei)</webMaster>
+    <copyright>©2023, All Rights Reserved</copyright>
+    <lastBuildDate>Wed, 22 Dec 2021 21:31:41 +0000</lastBuildDate>
+    
+        <atom:link href="http://laomeinote.com/tags/dockefile/index.xml" rel="self" type="application/rss+xml" />
+    
+
+      
+      <item>
+        <title>03-Dockerfile基础</title>
+        <link>http://laomeinote.com/posts/dockerfile-basics/</link>
+        <pubDate>Wed, 22 Dec 2021 21:31:41 +0000</pubDate>
+        <author>wowmarcomei@gmail.com (LaoMei)</author>
+        <atom:modified>Wed, 22 Dec 2021 21:31:41 +0000</atom:modified>
+        <guid>http://laomeinote.com/posts/dockerfile-basics/</guid>
+        <description>Dockerfile是用来干什么的？答案是制作镜像。那么了解Dockerfile之前，首先需要理解几个简单概念。 Dockerfile基础概念</description>
+        
+        <dc:creator>Laomei</dc:creator>
+        <media:content url="http://laomeinote.comimages/posts/docker-logo.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        <media:content url="http://laomeinote.comimages/posts/docker-logo.png" medium="image"><media:title type="html">meta image</media:title></media:content>
+        
+          
+            
+              <category>Docker</category>
+            
+          
+            
+              <category>Dockefile</category>
+            
+          
+        
+        
+          
+            
+              <category>技术笔记</category>
+            
+          
+        
+        
+          
+            
+              <category>Docker</category>
+            
+          
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>

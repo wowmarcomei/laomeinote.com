@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Harbor on laomeinote</title>
+    <link>http://laomeinote.com/tags/harbor/</link>
+    <description>Recent content in Harbor on laomeinote</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <managingEditor>wowmarcomei@gmail.com (LaoMei)</managingEditor>
+    <webMaster>wowmarcomei@gmail.com (LaoMei)</webMaster>
+    <copyright>©2023, All Rights Reserved</copyright>
+    <lastBuildDate>Sun, 26 Dec 2021 20:16:41 +0000</lastBuildDate>
+    
+        <atom:link href="http://laomeinote.com/tags/harbor/index.xml" rel="self" type="application/rss+xml" />
+    
+
+      
+      <item>
+        <title>07-Centos上部署Harbor私有仓库</title>
+        <link>http://laomeinote.com/posts/deploy-harbor-in-centos/</link>
+        <pubDate>Sun, 26 Dec 2021 20:16:41 +0000</pubDate>
+        <author>wowmarcomei@gmail.com (LaoMei)</author>
+        <atom:modified>Sun, 26 Dec 2021 20:16:41 +0000</atom:modified>
+        <guid>http://laomeinote.com/posts/deploy-harbor-in-centos/</guid>
+        <description>Harbor是VMware公司开源的企业级的Docker Registry管理项目，它包括权限管理(RBAC)、LDAP、日志审核、管理界面、</description>
+        
+        <dc:creator>LaoMei</dc:creator>
+        <media:content url="http://laomeinote.comimages/posts/harbor-logo.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        <media:content url="http://laomeinote.comimages/posts/harbor-logo.png" medium="image"><media:title type="html">meta image</media:title></media:content>
+        
+          
+            
+              <category>Docker</category>
+            
+          
+            
+              <category>Harbor</category>
+            
+          
+            
+              <category>K8s</category>
+            
+          
+        
+        
+          
+            
+              <category>技术笔记</category>
+            
+          
+        
+        
+          
+            
+              <category>Docker</category>
+            
+          
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>
