@@ -97,7 +97,7 @@ enableLangChange = false
 enableThemeChange = true
 
 # service
-googleTagManager = "G-TNM4ZVYYRG" # GTM-XXXXXX
+googleTagManager = "GTM-NNWMB4S" # GTM-XXXXXX
 baiduAnalytics = "17cd99aec9551f62aeca545b754d870b"
 enableBusuanzi = true
 busuanziSiteUV = true
