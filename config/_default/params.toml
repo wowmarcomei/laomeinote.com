@@ -97,7 +97,7 @@ enableLangChange = false
 enableThemeChange = true
 
 # service
-googleTagManager = "" # GTM-XXXXXX
+googleTagManager = "GTM-NNWMB4S" # GTM-XXXXXX
 baiduAnalytics = ""
 enableBusuanzi = true
 busuanziSiteUV = true
@@ -105,7 +105,7 @@ busuanziSitePV = true
 busuanziPagePV = true
 
 # Google Analytics 4
-googleAnalyticsID = "G-D2X3667B79"  # G-xxxXXXXXX
+googleAnalyticsID = ""  # G-xxxXXXXXX
 
 # rss
 updatePeriod = "" # Possible values: 'hourly', 'daily', 'weekly', 'monthly', or 'yearly'.
