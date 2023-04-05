@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "https://laomeinote.com"
 relativeURLs = true
 title = "laomeinote"
 theme = "zzo"
