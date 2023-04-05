@@ -139,7 +139,7 @@ commento = false
 # You can get your appid and appkey from https://leancloud.cn
 # more info please open https://valine.js.org
 [valine]
-  enable = true
+  enable = false
   appId = 'kpkXppuJXdh3VTgc1a7aSRhr-9Nh9j0Va'
   appKey = 'y9RqaAEp7ZCwSpYB50yA43kY'
   notify = true  # mail notifier , https://github.com/xCss/Valine/wiki
@@ -147,6 +147,17 @@ commento = false
   avatar = 'mm' 
   placeholder = '说点什么吧...'
   visitor = false
+
+[waline]
+  enable = false
+  ServerURL = 'https://discuss.xxx.com'
+  Lang = 'zh-CN'
+  Meta = ['nick', 'mail', 'link']
+  RequiredMeta = ['nick']
+  Login = 'disable'
+  PageSize = '10'
+  HighLighter = true
+
 
 [changyan]
   changyanAppid = ""        # Changyan app id             # 畅言
