@@ -2,52 +2,52 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://laomeinote.com/en/categories/</loc>
+    <loc>https://laomeinote.com/en/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="http://laomeinote.com/categories/"
+                href="https://laomeinote.com/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://laomeinote.com/en/categories/"
+                href="https://laomeinote.com/en/categories/"
                 />
   </url><url>
-    <loc>http://laomeinote.com/en/</loc>
+    <loc>https://laomeinote.com/en/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="http://laomeinote.com/"
+                href="https://laomeinote.com/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://laomeinote.com/en/"
+                href="https://laomeinote.com/en/"
                 />
   </url><url>
-    <loc>http://laomeinote.com/en/series/</loc>
+    <loc>https://laomeinote.com/en/series/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="http://laomeinote.com/series/"
+                href="https://laomeinote.com/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://laomeinote.com/en/series/"
+                href="https://laomeinote.com/en/series/"
                 />
   </url><url>
-    <loc>http://laomeinote.com/en/tags/</loc>
+    <loc>https://laomeinote.com/en/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="http://laomeinote.com/tags/"
+                href="https://laomeinote.com/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://laomeinote.com/en/tags/"
+                href="https://laomeinote.com/en/tags/"
                 />
   </url>
 </urlset>

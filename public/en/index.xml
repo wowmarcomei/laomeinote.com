@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>laomeinote</title>
-    <link>http://laomeinote.com/en/</link>
+    <link>https://laomeinote.com/en/</link>
     <description>Recent content on laomeinote</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
@@ -15,7 +15,7 @@
     <webMaster>wowmarcomei@gmail.com (LaoMei)</webMaster>
     <copyright>©2023, All Rights Reserved</copyright>
     
-        <atom:link href="http://laomeinote.com/en/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://laomeinote.com/en/index.xml" rel="self" type="application/rss+xml" />
     
       
       

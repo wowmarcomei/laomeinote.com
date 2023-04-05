@@ -27,7 +27,7 @@
   "background": {
     "persistent": false
   },
-  "start_url": "https://laomeinote.com/",
+  "start_url": "https://exampleSite.com/",
   "theme_color": "#fff",
   "background_color": "#fff",
   "display": "standalone"

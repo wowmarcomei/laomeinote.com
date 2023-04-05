@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Series on laomeinote</title>
-    <link>http://laomeinote.com/series/</link>
+    <link>https://laomeinote.com/series/</link>
     <description>Recent content in Series on laomeinote</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
@@ -16,19 +16,19 @@
     <copyright>©2023, All Rights Reserved</copyright>
     <lastBuildDate>Sun, 17 Apr 2022 20:19:21 +0000</lastBuildDate>
     
-        <atom:link href="http://laomeinote.com/series/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://laomeinote.com/series/index.xml" rel="self" type="application/rss+xml" />
     
 
       
       <item>
         <title>K8s</title>
-        <link>http://laomeinote.com/series/k8s/</link>
+        <link>https://laomeinote.com/series/k8s/</link>
         <pubDate>Sun, 17 Apr 2022 20:19:21 +0000</pubDate>
         <author>wowmarcomei@gmail.com (LaoMei)</author>
         
-        <guid>http://laomeinote.com/series/k8s/</guid>
+        <guid>https://laomeinote.com/series/k8s/</guid>
         <description></description>
-        
+        <content:encoded></content:encoded>
         <dc:creator>LaoMei</dc:creator>
         
         
@@ -40,13 +40,13 @@
       
       <item>
         <title>Docker</title>
-        <link>http://laomeinote.com/series/docker/</link>
+        <link>https://laomeinote.com/series/docker/</link>
         <pubDate>Sun, 26 Dec 2021 20:16:41 +0000</pubDate>
         <author>wowmarcomei@gmail.com (LaoMei)</author>
         
-        <guid>http://laomeinote.com/series/docker/</guid>
+        <guid>https://laomeinote.com/series/docker/</guid>
         <description></description>
-        
+        <content:encoded></content:encoded>
         <dc:creator>LaoMei</dc:creator>
         
         

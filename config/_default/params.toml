@@ -8,7 +8,7 @@ useFaviconGenerator = true # https://www.favicon-generator.org/
 meta_image = "/images/whoami/avatar.jpg" #设置分享链接时的meta图片
 themecolor = ""
 
-themeOptions = ["dark","light"]
+themeOptions = ["light"]
 notAllowedTypesInHome = ["about","contact", "talks", "showcase", "publication", "presentation", "resume","gallery"]
 notAllowedTypesInHomeSidebar = ["about", "archive", "showcase", "publication", "presentation", "resume","gallery","posts"]
 notAllowedTypesInArchive = ["about", "talks", "showcase", "publication", "presentation", "resume","gallery"]
@@ -97,9 +97,9 @@ enableLangChange = false
 enableThemeChange = true
 
 # service
-googleTagManager = "" # GTM-XXXXXX
-baiduAnalytics = ""
-enableBusuanzi = false
+googleTagManager = "GTM-NNWMB4S" # GTM-XXXXXX
+baiduAnalytics = "17cd99aec9551f62aeca545b754d870b"
+enableBusuanzi = true
 busuanziSiteUV = true
 busuanziSitePV = true
 busuanziPagePV = true
@@ -107,7 +107,7 @@ busuanziPagePV = true
 # rss
 updatePeriod = "" # Possible values: 'hourly', 'daily', 'weekly', 'monthly', or 'yearly'.
 updateFrequency = ""
-fullContents = false
+fullContents = true
 
 # comment
 enableComment = true
@@ -139,10 +139,10 @@ commento = false
 # You can get your appid and appkey from https://leancloud.cn
 # more info please open https://valine.js.org
 [valine]
-  enable = false
-  appId = '你的appId'
-  appKey = '你的appKey'
-  notify = false  # mail notifier , https://github.com/xCss/Valine/wiki
+  enable = true
+  appId = 'kpkXppuJXdh3VTgc1a7aSRhr-9Nh9j0Va'
+  appKey = 'y9RqaAEp7ZCwSpYB50yA43kY'
+  notify = true  # mail notifier , https://github.com/xCss/Valine/wiki
   verify = false # Verification code
   avatar = 'mm' 
   placeholder = '说点什么吧...'
@@ -213,6 +213,8 @@ commento = false
   name = "douban" 
 [[share]]
   name = "linkedin"   
+[[share]]
+  name = "telegram"   
 
 #可以加备案到这里
 [[footerLinks]]

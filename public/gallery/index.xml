@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Galleries on laomeinote</title>
-    <link>http://laomeinote.com/gallery/</link>
+    <link>https://laomeinote.com/gallery/</link>
     <description>Recent content in Galleries on laomeinote</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
@@ -16,21 +16,22 @@
     <copyright>©2023, All Rights Reserved</copyright>
     <lastBuildDate>Thu, 31 Oct 2019 10:20:16 +0900</lastBuildDate>
     
-        <atom:link href="http://laomeinote.com/gallery/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://laomeinote.com/gallery/index.xml" rel="self" type="application/rss+xml" />
     
 
       
       <item>
         <title>Cartoon</title>
-        <link>http://laomeinote.com/gallery/cartoon/</link>
+        <link>https://laomeinote.com/gallery/cartoon/</link>
         <pubDate>Thu, 31 Oct 2019 10:20:16 +0900</pubDate>
         <author>wowmarcomei@gmail.com (LaoMei)</author>
         <atom:modified>Thu, 31 Oct 2019 10:20:16 +0900</atom:modified>
-        <guid>http://laomeinote.com/gallery/cartoon/</guid>
+        <guid>https://laomeinote.com/gallery/cartoon/</guid>
         <description>Sample images from Pixabay</description>
-        
+        <content:encoded>&lt;p&gt;Sample images from &lt;a href=&#34;https://pixabay.com&#34;&gt;Pixabay&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
         <dc:creator>LaoMei</dc:creator>
-        <media:content url="http://laomeinote.comimages/feature2/bam.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://laomeinote.comimages/feature2/bam.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -40,15 +41,16 @@
       
       <item>
         <title>Photo</title>
-        <link>http://laomeinote.com/gallery/photo/</link>
+        <link>https://laomeinote.com/gallery/photo/</link>
         <pubDate>Thu, 31 Oct 2019 10:20:16 +0900</pubDate>
         <author>wowmarcomei@gmail.com (LaoMei)</author>
         <atom:modified>Thu, 31 Oct 2019 10:20:16 +0900</atom:modified>
-        <guid>http://laomeinote.com/gallery/photo/</guid>
+        <guid>https://laomeinote.com/gallery/photo/</guid>
         <description>Sample images from Pixabay</description>
-        
+        <content:encoded>&lt;p&gt;Sample images from &lt;a href=&#34;https://pixabay.com&#34;&gt;Pixabay&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
         <dc:creator>LaoMei</dc:creator>
-        <media:content url="http://laomeinote.comimages/feature2/gallery.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://laomeinote.comimages/feature2/gallery.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
