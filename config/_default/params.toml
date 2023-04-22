@@ -1,4 +1,4 @@
-logoText = "laomeinote"
+logoText = "老梅笔记-laomeinote"
 logoType = "short" # long, short
 description = "这是老梅的个人站点，主要分享技术笔记、阅读心得、工具使用、资源共享等内容。"
 custom_css = []
