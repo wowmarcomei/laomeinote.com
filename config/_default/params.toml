@@ -8,7 +8,7 @@ useFaviconGenerator = true # https://www.favicon-generator.org/
 meta_image = "/images/whoami/avatar.jpg" #设置分享链接时的meta图片
 themecolor = ""
 
-themeOptions = ["light"]
+themeOptions = ["light","dark"]
 notAllowedTypesInHome = ["about","contact", "talks", "showcase", "publication", "presentation", "resume","gallery"]
 notAllowedTypesInHomeSidebar = ["about", "archive", "showcase", "publication", "presentation", "resume","gallery","posts"]
 notAllowedTypesInArchive = ["about", "talks", "showcase", "publication", "presentation", "resume","gallery"]
@@ -62,7 +62,7 @@ typeIcon = "🎯"
 
 # whoami
 myname = "LaoMei"
-email = "wowmarcomei@gmail.com"
+email = "lm@laomeinote.com"
 whoami = "A student,committed to continuous learning."
 bioImageUrl = ""
 useGravatar = false
@@ -99,10 +99,10 @@ enableThemeChange = true
 # service
 googleTagManager = "GTM-NNWMB4S" # GTM-XXXXXX
 baiduAnalytics = ""
-enableBusuanzi = true
-busuanziSiteUV = true
-busuanziSitePV = true
-busuanziPagePV = true
+enableBusuanzi = false
+busuanziSiteUV = false
+busuanziSitePV = false
+busuanziPagePV = false
 
 # Google Analytics 4
 googleAnalyticsID = ""  # G-xxxXXXXXX
@@ -176,7 +176,7 @@ commento = false
   dataAttrs = "" # "data-isso='https://isso.example.com' data-isso-require-author='true'"
 
 [socialOptions]
-  email = "mailto:wowmarcomei@email.com"
+  email = "mailto:lm@laomeinote.com"
   phone = ""
   twitter = "https://twitter.com/wowmarcomei"
   facebook = "https://facebook.com/wowmarcomei"
@@ -187,13 +187,13 @@ commento = false
   youtube = ""
   medium = ""
   tumblr = ""
-  linkedin = "https://github.com/wowmarcomei"
+  linkedin = ""
   pinterest = ""
   stack-exchange = ""
   telegram = ""
   steam = ""
-  weibo = ""
-  douban = ""
+  weibo = "https://weibo.com/u/1740682610"
+  douban = "https://www.douban.com/people/marcomei/"
   csdn = ""
   gitlab = ""
   mastodon = ""

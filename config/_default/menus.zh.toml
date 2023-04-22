@@ -6,28 +6,13 @@
 
 [[main]]
   identifier = "archive"
-  name = "归档"
+  name = "时光机"
   url = "archive"
   weight = 2
 
+
 [[main]]
-  identifier = "about"
-  name = "关于"
-  url = "about"
+  identifier = "Chatgpt"
+  name = "Chatgpt"
+  url = "https://chat.laomeinote.com"
   weight = 4
-
-[[main]]
-  identifier = "tools"
-  name = "工具"
-  url = "/"
-  weight = 5
-    
-[[main]]
-  parent = "tools"
-  name = "google"
-  url = "categories/google/"
-
-[[main]]
-  parent = "tools"
-  name = "chatgpt"
-  url = "categories/chatgpt/"
