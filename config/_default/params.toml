@@ -1,4 +1,4 @@
-logoText = "老梅笔记-laomeinote"
+logoText = "老梅笔记"
 logoType = "short" # long, short
 description = "这是老梅的个人站点，主要分享技术笔记、阅读心得、工具使用、资源共享等内容。"
 custom_css = []
@@ -91,7 +91,7 @@ enableSidebarPostsByOrder = false
 
 # footer
 showPoweredBy = true
-showFeedLinks = true
+showFeedLinks = false
 showSocialLinks = true
 enableLangChange = false
 enableThemeChange = true
