@@ -19,7 +19,7 @@
 [[main]]
   parent = "chatgpt"
   name = "chatweb"
-  url = "https://chatnext.laomeinote.com"
+  url = "https://chatweb.laomeinote.com"
 
 [[main]]
   parent = "chatgpt"
