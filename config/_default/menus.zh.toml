@@ -10,9 +10,18 @@
   url = "archive"
   weight = 2
 
+[[main]]
+  identifier = "chatgpt"
+  name = "chatgpt"
+  url = "chatgpt"
+  weight = 4
+    
+[[main]]
+  parent = "chatgpt"
+  name = "chatweb"
+  url = "https://chatnext.laomeinote.com"
 
 [[main]]
-  identifier = "Chatgpt"
-  name = "Chatgpt"
+  parent = "chatgpt"
+  name = "chatnext"
   url = "https://chatnext.laomeinote.com"
-  weight = 4
