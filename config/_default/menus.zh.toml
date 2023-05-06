@@ -21,7 +21,3 @@
   name = "chatweb"
   url = "http://chatweb.laomeinote.com/#/chat/1002"
 
-[[main]]
-  parent = "chatgpt"
-  name = "chatnext"
-  url = "https://chatnext.laomeinote.com"
