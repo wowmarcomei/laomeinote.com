@@ -141,7 +141,7 @@ COS开启静态网站后，默认会有一个cos的域名访问，但该域名�
 添加函数时按照提示选择全部部署&全部删除时刷新CDN缓存，这样每次在COS文件内容有更新时都会刷新CDN。
 ![cdn_domain](/images/posts/refresh_cdn_2.png)
 
-完成这项配置后正常访问**http**域名即可正常访问上述配置的hugo站点，如果想要为托管在COS上的hugo静态网站加上https证书该如何处理呢？查看[为COS桶配置https证书](/posts/add-https-for-cos).
+完成这项配置后正常访问**http**域名即可正常访问上述配置的hugo站点，如果想要为托管在COS上的hugo静态网站加上https证书该如何处理呢？查看[为Hugo配置https证书](/posts/add-https-for-hugo).
 
 ---
 全文完。
