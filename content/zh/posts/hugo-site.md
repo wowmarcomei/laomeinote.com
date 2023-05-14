@@ -1,5 +1,5 @@
 ---
-title: "使用hugo快速建站"
+title: "使用Hugo快速建站"
 date: 2023-04-22T18:28:17+08:00
 description: 使用hugo构建静态网站，github action上传到腾讯云cos对象存储中，并自动更新触发CDN更新。
 categories: 
@@ -14,7 +14,7 @@ meta_image: images/posts/hugo.png
 
 keywords: hugo,腾讯云,cdn, github action, serverless
 ---
-
+![qclouod-ssl](/images/posts/hugo.png)
 ## 1.整体思路
 
 之前一直在使用Hexo与webify托管站点，hexo的主题丰富、seo友好、webify静态托管也很省钱，小站点的成本几乎是免费的；吸引我改用hugo的原因主要是因为两点：
