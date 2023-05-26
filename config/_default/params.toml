@@ -232,8 +232,8 @@ commento = false
 
 #可以加备案到这里
 [[footerLinks]]
-  name = ""
-  link = ""
+  name = "粤ICP备2021013871号"
+  link = "https://beian.miit.gov.cn/"
 [[footerLinks]]
   name = ""
   link = ""
