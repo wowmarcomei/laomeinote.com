@@ -178,7 +178,7 @@ commento = false
 [socialOptions]
   email = "mailto:lm@laomeinote.com"
   phone = ""
-  twitter = "https://twitter.com/wowmarcomei"
+  twitter = ""
   facebook = "https://facebook.com/wowmarcomei"
   github = "https://github.com/wowmarcomei"
   stack-overflow = ""
