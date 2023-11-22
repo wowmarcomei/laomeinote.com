@@ -5,6 +5,7 @@
 # Hugo files
 .hugo_cache/
 resources/
+public/
 
 # Build files
 *.log
