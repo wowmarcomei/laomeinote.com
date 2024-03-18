@@ -6,9 +6,9 @@ custom_js = ["js/custom.js"]
 
 useFaviconGenerator = true # https://www.favicon-generator.org/
 meta_image = "/images/whoami/avatar.jpg" #设置分享链接时的meta图片
-themecolor = "dark"
+themecolor = ""
 
-themeOptions = ["light","dark"]
+themeOptions = ["dark","light"]
 notAllowedTypesInHome = ["about","contact", "talks", "showcase", "publication", "presentation", "resume","gallery"]
 notAllowedTypesInHomeSidebar = ["about", "archive", "showcase", "publication", "presentation", "resume","gallery","posts"]
 notAllowedTypesInArchive = ["about", "talks", "showcase", "publication", "presentation", "resume","gallery"]
@@ -25,7 +25,7 @@ enableAppbarSearchIcon = true
 enableAppbarLangIcon = false
 
 # header
-homeHeaderType = "text" # text, img, slide, typewriter
+homeHeaderType = "typewriter" # text, img, slide, typewriter
 hideHomeHeaderWhenMobile = true
 
 # menu

@@ -2,14 +2,17 @@
 header:
   - type: typewriter
     methods:
-      - typeString: Hello world!
-      - pauseFor: 2500
+      - typeString: Laomei Note 老梅笔记
+      - pauseFor: 500
       - deleteAll: true
-      - typeString: Strings can be removed
-      - pauseFor: 2500
-      - deleteChars: 7
-      - typeString: <strong>altered!</strong>
-      - pauseFor: 2500
+      - typeString: 记录时光、分享笔记
+      - pauseFor: 500
+      - deleteChars: 4
+      - typeString: <strong>分享技术</strong>
+      - pauseFor: 500
+      - deleteChars: 4
+      - typeString: <strong>分享资讯</strong>
+      - pauseFor: 500
     options:
       loop: true
       autoStart: false
@@ -17,7 +20,7 @@ header:
     paddingX: 50
     align: center
     fontSize: 44
-    fontColor: yellow
+    fontColor: white
     
   - type: text
     height: 200
@@ -27,7 +30,7 @@ header:
     title:
       - 老梅笔记
     subtitle:
-      - 分享技术笔记, 阅读与工具资源使用心得.
+      - 记录时光, 分享笔记.
     titleColor: 
     titleShadow: true
     titleFontSize: 44
