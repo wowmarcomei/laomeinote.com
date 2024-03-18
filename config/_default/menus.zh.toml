@@ -11,17 +11,7 @@
   weight = 2
 
 [[main]]
-  identifier = "chatgpt"
-  name = "chatgpt"
-  url = "chatgpt"
-  weight = 4
-    
-[[main]]
-  parent = "chatgpt"
-  name = "chatweb"
-  url = "https://chatweb.laomeinote.com/#/chat/1002"
-
-[[main]]
-  parent = "chatgpt"
-  name = "chatnext"
-  url = "https://chatnext.laomeinote.com"
+  identifier = "about"
+  name = "关于"
+  url = "/about/"
+  weight = 3

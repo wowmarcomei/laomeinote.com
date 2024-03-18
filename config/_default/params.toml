@@ -1,12 +1,12 @@
-logoText = "老梅笔记"
+logoText = "Laomei Note | 老梅笔记记"
 logoType = "short" # long, short
-description = "这是老梅的个人站点，主要分享技术笔记、阅读心得、工具使用、资源共享等内容。"
-custom_css = []
-custom_js = []
+description = "Laomei Note 老梅笔记是Laomei的个人站点，主要分享AI、Docker、Linux、Kubernetes、Devops、建站SEO技术, 最新科技、读书笔记等内容。"
+custom_css = ["css/font.css","css/custom.css"]
+custom_js = ["js/custom.js"]
 
 useFaviconGenerator = true # https://www.favicon-generator.org/
 meta_image = "/images/whoami/avatar.jpg" #设置分享链接时的meta图片
-themecolor = ""
+themecolor = "dark"
 
 themeOptions = ["light","dark"]
 notAllowedTypesInHome = ["about","contact", "talks", "showcase", "publication", "presentation", "resume","gallery"]
