@@ -1,7 +1,7 @@
 @font-face {
     font-family: 'LXGWBright';
-    src: url('https://cdn.jsdelivr.net/gh/wowmarcomei/LxgwBright/LXGWBright/LXGWBright-Medium.ttf') format('truetype'),,
-         url('https://cdn.jsdelivr.net/gh/wowmarcomei/LxgwBright/LXGWBright/LXGWBright-Medium.otf') format('truetype'),;
+    src: url('https://cdn.jsdelivr.net/gh/wowmarcomei/LxgwBright/LXGWBright/LXGWBright-Medium.ttf') format('truetype'),
+         url('https://cdn.jsdelivr.net/gh/wowmarcomei/LxgwBright/LXGWBright/LXGWBright-Medium.otf') format('truetype');
     font-weight: 600;
     font-style: normal;
 }
