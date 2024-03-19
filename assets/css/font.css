@@ -1,23 +1,7 @@
 @font-face {
-    font-family: 'Montserrat';
-    src: url('../fonts/montserrat-black.woff2') format('woff2'),
-        url('../fonts/montserrat-black.woff') format('woff');
-    font-weight: 900;
-    font-style: normal;
-}
-
-@font-face {
-    font-family: 'Merriweather';
-    src: url('../fonts/merriweather-regular.woff2') format('woff2'),
-        url('../fonts/merriweather-regular.woff') format('woff');
-    font-weight: 400;
-    font-style: normal;
-}
-
-@font-face {
     font-family: 'LXGWBright';
-    src: url('../fonts/LXGWBright-Medium.ttf') format('truetype'),
-         url('../fonts/LXGWBright-Medium.otf') format('truetype');
+    src: url('https://cdn.jsdelivr.net/gh/wowmarcomei/LxgwBright/LXGWBright/LXGWBright-Medium.ttf') format('truetype'),,
+         url('https://cdn.jsdelivr.net/gh/wowmarcomei/LxgwBright/LXGWBright/LXGWBright-Medium.otf') format('truetype'),;
     font-weight: 600;
     font-style: normal;
 }
