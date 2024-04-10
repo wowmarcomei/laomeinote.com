@@ -26,9 +26,7 @@ jobs:
           HUGO_ENVIRONMENT: production
           HUGO_ENV: production
         run: |
-          hugo \
-            --minify \
-            --baseURL "${{ steps.pages.outputs.base_url }}/"
+          hugo --minify 
       - name: Install AWS CLI
         run: |
           sudo apt-get install -y python3-pip
