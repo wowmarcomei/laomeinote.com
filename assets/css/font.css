@@ -1,3 +1,26 @@
+@import url('https://cdn.bootcdn.net/ajax/libs/lxgw-wenkai-webfont/1.6.0/style.min.css');
+@import url('https://cdn.bootcdn.net/ajax/libs/lxgw-wenkai-screen-webfont/1.6.0/style.min.css');
+
+
+body {
+    font-family: "LXGW WenKai", sans-serif;
+}
+
+/* Lite version */
+body {
+    font-family: "LXGW WenKai Lite", sans-serif;
+}
+
+/* TC version */
+body {
+    font-family: "LXGW WenKai TC", sans-serif;
+}
+
+/* Screen version */
+body {
+    font-family: "LXGW WenKai Screen", sans-serif;
+}
+
 @font-face {
     font-family: 'LXGWBright';
     src: url('https://cdn.jsdelivr.net/gh/wowmarcomei/LxgwBright/LXGWBright/LXGWBright-Medium.ttf') format('truetype'),
