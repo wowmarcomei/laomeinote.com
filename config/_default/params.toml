@@ -1,11 +1,11 @@
 logoText = "Laomei Note | 老梅笔记"
 logoType = "short" # long, short
-description = "Laomei Note 老梅笔记是Laomei的个人站点，主要分享AI、Docker、Linux、Kubernetes、Devops、建站SEO技术, 最新科技、读书笔记等内容。"
+description = "LaomeiNote 老梅笔记是Laomei的个人站点，主要分享AI、Docker、Linux、Kubernetes、Devops、建站SEO技术, 最新科技、读书笔记等内容。"
 custom_css = ["css/font.css","css/custom.css"]
 custom_js = ["js/custom.js"]
 
 useFaviconGenerator = true # https://www.favicon-generator.org/
-meta_image = "/images/whoami/avatar.jpg" #设置分享链接时的meta图片
+meta_image = "/images/whoami/avatar.webp" #设置分享链接时的meta图片
 themecolor = ""
 
 themeOptions = ["dark","light"]
@@ -25,7 +25,7 @@ enableAppbarSearchIcon = true
 enableAppbarLangIcon = false
 
 # header
-homeHeaderType = "typewriter" # text, img, slide, typewriter
+homeHeaderType = "" # text, img, slide, typewriter
 hideHomeHeaderWhenMobile = true
 
 # menu

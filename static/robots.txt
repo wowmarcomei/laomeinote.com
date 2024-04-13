@@ -1,4 +1,3 @@
 User-agent: *
-Disallow: chat.laomeinote.com
 
 Sitemap: https://laomeinote.com/sitemap.xml

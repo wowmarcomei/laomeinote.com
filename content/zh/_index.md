@@ -28,9 +28,9 @@ header:
     paddingY: 0
     align: center
     title:
-      - 老梅笔记
+      - Laomei Note | 老梅笔记
     subtitle:
-      - 记录时光, 分享笔记.
+      - 
     titleColor: 
     titleShadow: true
     titleFontSize: 44

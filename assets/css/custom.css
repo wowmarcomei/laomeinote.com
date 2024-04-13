@@ -33,6 +33,12 @@
     margin-right: 25px; /* 在img元素的右侧添加20px的间距 */
 }
 
+.navbar__logo {
+    border-radius: 50%; /* 设置边框半径为50%，使logo显示为圆圈 */
+}
+
+
+
 .theme__dark .gtt {
     color: #BDBDBD;
     background-color: #DA282A;
