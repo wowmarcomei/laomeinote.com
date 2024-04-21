@@ -16,5 +16,5 @@
 ```toml
 [params]
   [params.headers]
-    Access-Control-Allow-Origin = "https://www.laomeinote.com"
+    Access-Control-Allow-Origin = "https://laomeinote.com"
 ```
