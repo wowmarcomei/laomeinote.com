@@ -13,8 +13,6 @@ image: /images/posts/push-docker-imgaes-to-github-registry.png
 keywords: github, github registry, docker
 ---
 
-# 推送 Docker 镜像到Github Registry
-
 目前可靠的docker镜像保存途径主要为docker hub与github的镜像仓，本文主要介绍推送镜像至Github的镜像仓库。
 
 GitHub 提供了一个名为 GitHub Container Registry 的服务，可以存储和管理 Docker 镜像。
